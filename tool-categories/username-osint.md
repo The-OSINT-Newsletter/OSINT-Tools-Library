@@ -2,4 +2,4 @@
 
 Username OSINT focuses on discovering and analysing usernames across websites, social networks, forums, and online services. These tools help investigators locate accounts associated with a specific username, identify reused aliases across platforms, and uncover digital footprints linked to an individual. By searching multiple services simultaneously, they can reveal profiles, activity patterns, and potential connections between accounts.
 
-<table><thead><tr><th width="254.6666259765625">Tool</th><th>Link</th></tr></thead><tbody><tr><td>WhatsMyName</td><td><a href="../osint-tools/whatsmyname.md">Find out more</a></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="254.6666259765625">Tool</th><th>Link</th></tr></thead><tbody><tr><td>WhatsMyName</td><td><a href="../osint-tools/whatsmyname.md">Find out more</a></td></tr><tr><td>LoLArchiver</td><td><a href="../osint-tools/lolarchiver.md">Find out more</a></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>

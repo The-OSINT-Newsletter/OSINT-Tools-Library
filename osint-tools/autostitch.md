@@ -28,7 +28,7 @@ Autostitch works from unordered collections of images, automatically combines ov
 1. **Head to the** [**Autostitch web page**](https://mattabrown.github.io/autostitch.html)**, download to your desktop.**<br>
 2. &#x20;**Open Autostitch and select the images to stitch. This looks like the below in the Demo version:**<br>
 
-<figure><img src="../.gitbook/assets/unknown (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -29,7 +29,7 @@ Face Comparison by Toolpie is an AI online facial similarity tool that allows us
 
 1. **Navigate to the Face Comparison by Toolpie URL and scroll to the below, being mindful to avoid clicking on the ads:**<br>
 
-<figure><img src="../.gitbook/assets/unknown (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

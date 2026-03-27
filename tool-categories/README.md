@@ -91,6 +91,12 @@ Tools for analysing blockchain transactions, cryptocurrency wallets, and on-chai
 
 [View category](blockchain-and-cryptocurrency-osint.md)
 
+#### Cyberthreat Intelligence OSINT:
+
+Tools for analysing publicly available data on cyber threats, including malware campaigns, data breaches, exposed credentials, and threat actor activity.
+
+[View category](cyberthreat-intelligence-osint.md)
+
 #### Network Infrastructure OSINT:
 
 Tools for analysing IP addresses, domains, and network infrastructure data

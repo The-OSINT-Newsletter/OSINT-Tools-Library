@@ -44,6 +44,9 @@ Each tool entry includes:
 * [Archiving OSINT](tool-categories/archiving-osint.md)
 * [Image & Video Analysis OSINT](tool-categories/image-and-video-analysis-osint.md)&#x20;
 * [Geolocation & Maps OSINT](tool-categories/geolocation-and-maps-osint.md)
+* [Blockchain/Cryptocurrency OSINT](tool-categories/blockchain-and-cryptocurrency-osint.md)
+* [Cyberthreat Intelligence OSINT](tool-categories/cyberthreat-intelligence-osint.md)
+* [Network Infrastructure OSINT](tool-categories/network-infrastructure-osint.md)
 
 ### Submit or edit a tool:
 

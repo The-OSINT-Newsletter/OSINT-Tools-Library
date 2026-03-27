@@ -10,3 +10,4 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | GeoHints                        | [Find out more](../osint-tools/geohints.md)                        |
 | ShadeMap                        | [Find out more](../osint-tools/shademap.md)                        |
 | Wikimapia                       | [Find out more](../osint-tools/wikimapia.md)                       |
+| GeoSpy                          | [Find out more](../osint-tools/geospy.md)                          |

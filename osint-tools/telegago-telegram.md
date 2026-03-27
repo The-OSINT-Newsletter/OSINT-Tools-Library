@@ -31,7 +31,7 @@ Telegago enables keyword-based searching across public Telegram content using Go
 
 1. **Open the** [**Telegago URL**](https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0) **in your browser to populate the below page.**
 
-<figure><img src="../.gitbook/assets/unknown (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Just like Google/other search engine providers, you can then enter relevant keywords, usernames, or phrases into the search bar. Use quotation marks for exact phrase matching if needed.**<br>
 
