@@ -6,16 +6,16 @@ description: >-
 
 # OSINT Industries
 
-| **OSINT Industries** | **Quick Overview**                                                                                                                                                                          |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| URL                  | [https://app.osint.industries/](https://app.osint.industries/)                                                                                                                              |
-| What it does         | Aggregates and correlates open‑source data in real time to generate profiles and digital footprints from inputs like email addresses, phone numbers, usernames, names, and crypto wallets.  |
-| How to use it        | Input a selector, wait for real-time intelligence gathering, then review and export results.                                                                                                |
-| Cost                 | Paid (subscription based).                                                                                                                                                                  |
-| Account required     | Yes for investigations and full features.                                                                                                                                                   |
-| Cookies              | A mixture of cookies for analytics, advertising/tracking, and security/session management.                                                                                                  |
-| Ownership            | Owned and led by British CEO Nathaniel Fried.                                                                                                                                               |
-| Use in Reporting     | Can be used as an intelligence source for investigative reporting and verification of digital profiles and accounts.                                                                        |
+| **OSINT Industries** | **Quick Overview**                                                                                                                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| URL                  | [https://app.osint.industries/](https://app.osint.industries/)                                                                                                                                                                  |
+| What it does         | Aggregates and correlates open‑source data in real time to generate profiles and digital footprints from inputs like email addresses, phone numbers, usernames, names, and crypto wallets.                                      |
+| How to use it        | Input a selector, wait for real-time intelligence gathering, then review and export results.                                                                                                                                    |
+| Cost                 | Paid (subscription based).                                                                                                                                                                                                      |
+| Account required     | Yes for investigations and full features.                                                                                                                                                                                       |
+| Cookies              | A mixture of cookies for analytics, advertising/tracking, and security/session management.                                                                                                                                      |
+| Ownership            | Owned by [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/), [Megadose](https://www.linkedin.com/in/megadose/), [Ismail E](https://br.linkedin.com/in/ismaiyl), and [Thomas H](https://www.linkedin.com/in/thert/). |
+| Use in Reporting     | Can be used as an intelligence source for investigative reporting and verification of digital profiles and accounts.                                                                                                            |
 
 ### What does OSINT Industries do?
 
@@ -116,3 +116,4 @@ OSINT Industries is owned and led by British CEO [Nathaniel Fried.](https://www.
 
 [https://www.osint.industries/case-studies](https://www.osint.industries/case-studies)
 
+_**Disclaimer**: OSINT Industries owns the OSINT Newsletter which owns and operates the OSINT Tools Library._&#x20;
