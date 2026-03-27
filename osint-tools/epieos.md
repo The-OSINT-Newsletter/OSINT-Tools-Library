@@ -1,7 +1,7 @@
 ---
 description: >-
   Tool Description : A powerful OSINT tool that lets you investigate email
-  addresses, phone numbers, usernames, and more.
+  addresses and phone numbers.
 ---
 
 # Epieos
@@ -9,8 +9,8 @@ description: >-
 | **Epieos**       | **Quick Overview**                                                                                                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | URL              | [https://epieos.com/](https://epieos.com/)                                                                                                                          |
-| What it does     | Searches emails, phone numbers, usernames, and other identifiers to uncover linked accounts, breaches, and publicly available data.                                 |
-| How to use it    | Enter a target (email, phone number, username, etc.), select the search type, and review the returned data (accounts, leaks, metadata).                             |
+| What it does     | Searches emails and phone numbers to uncover linked accounts, breaches, and publicly available data.                                                                |
+| How to use it    | Enter an email or phone number and review the returned data (accounts, leaks, metadata).                                                                            |
 | Cost             | Partially free. Some searches are free, advanced features are paid.                                                                                                 |
 | Account required | No for basic use. Yes for full functionality.                                                                                                                       |
 | Cookies          | Security and usability cookies.                                                                                                                                     |
@@ -19,17 +19,17 @@ description: >-
 
 ### What does Epieos do?
 
-Epieos is like a digital footprint finder. You give it an email, phone number, or username, and it hunts down where that data shows up online. It’s great at quickly connecting identifiers to platforms and accounts but bear in mind that results have limited depth.
+Epieos is like a digital footprint finder. You give it an email address or phone number and it hunts down where that data shows up online. It’s great at quickly connecting identifiers to platforms and accounts but bear in mind that results have limited depth.
 
 **The lowdown:** Epieos is a fast, beginner-friendly OSINT tool that excels at turning a single data point into multiple leads but remember to seek verification elsewhere.
 
 ### How to Use:
 
-**1. Go to**[ **https://epieos.com/**](https://epieos.com/) **and choose your search type (email, phone, username, etc.)**&#x20;
+**1. Go to**[ **https://epieos.com/**](https://epieos.com/) **and choose your search type (email or phone number).**
 
 <figure><img src="../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure>
 
-**2. Enter your target data and review results including accounts, leaks and metadata.  (Limited results without a paid account). The tool is linked to Have I been pwned? to reveal data breaches.**
+**2. Enter your target data and review results including accounts and leaks (Limited results without a paid account). The tool is linked to Have I been pwned? to reveal data breaches.**
 
 <figure><img src="../.gitbook/assets/unknown (9).png" alt=""><figcaption></figcaption></figure>
 
