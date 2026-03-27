@@ -31,6 +31,12 @@ Tools for investigating email addresses to uncover associated accounts, breaches
 
 [View category](email-address-osint.md)
 
+#### Phone Number OSINT:
+
+Tools for investigating telephone numbers to uncover associated identities, accounts, and activity across publicly available sources.
+
+[View category](phone-number-osint.md)
+
 #### Public Records OSINT:
 
 Tools for accessing and analysing official records (e.g. government, legal, and property data).

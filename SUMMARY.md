@@ -5,6 +5,7 @@
   * [Social Media OSINT](tool-categories/social-media-osint.md)
   * [Username OSINT](tool-categories/username-osint.md)
   * [Email Address OSINT](tool-categories/email-address-osint.md)
+  * [Phone Number OSINT](tool-categories/phone-number-osint.md)
   * [Public Records OSINT](tool-categories/public-records-osint.md)
   * [Domain Name OSINT](tool-categories/domain-name-osint.md)
   * [Foundational OSINT Tools](tool-categories/foundational-osint-tools.md)
