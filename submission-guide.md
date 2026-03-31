@@ -21,3 +21,8 @@ Spotted outdated info or have more details about a tool? You can help improve ou
 **Submit edits using this Google Form:** [Edit a Tool](https://forms.gle/Ae8R4QPuJyfz5Skb6)
 
 Your contributions help keep the resource accurate, reliable, and useful for everyone in the community.
+
+## Submit a pull request on GitHub
+
+Want to add or edit a tool via GitHub? You can do so here: [Submit pull request on GitHub](https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library)
+

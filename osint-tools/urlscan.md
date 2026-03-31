@@ -35,6 +35,8 @@ urlscan.io acts like a digital investigator, visiting a website so you don’t h
 
 **Top tip: Use filters and search to pivot into related domains or infrastructure.**
 
+**You can also** [**view our full guide in the OSINT Newsletter here.**](https://osintnewsletter.com/p/68)
+
 ### Cost
 
 * [ ] Free

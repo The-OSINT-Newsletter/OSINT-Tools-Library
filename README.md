@@ -52,3 +52,5 @@ Each tool entry includes:
 ### Submit or edit a tool:
 
 [View our submission guide](submission-guide.md)
+
+[Submit a pull request on GitHub](https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library)

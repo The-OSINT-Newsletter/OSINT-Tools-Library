@@ -50,6 +50,8 @@ Publicly accesible data includes:
 
 3. **Review company information including filing history, people, accounts, registered address, and incorporation details. Note: documents can often be downloaded as PDF filings.** <br>
 
+You can view our [full guide in the OSINT Newsletter here.](https://osintnewsletter.com/p/76)
+
 ### Cost:
 
 * [ ] Paid
