@@ -4,8 +4,7 @@ Email OSINT focuses on investigating email addresses to uncover associated accou
 
 | Tool             | Link                                                |
 | ---------------- | --------------------------------------------------- |
-| Ghunt            | [Find out more](../osint-tools/ghunt.md)            |
-| Epieos           | [Find out more](../osint-tools/epieos.md)           |
 | OSINT Industries | [Find out more](../osint-tools/osint-industries.md) |
+| Epieos           | [Find out more](../osint-tools/epieos.md)           |
 | LoLArchiver      | [Find out more](../osint-tools/lolarchiver.md)      |
-|                  |                                                     |
+| Ghunt            | [Find out more](../osint-tools/ghunt.md)            |
