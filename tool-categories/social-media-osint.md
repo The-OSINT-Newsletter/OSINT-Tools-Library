@@ -12,3 +12,5 @@ These tools help investigators identify accounts, relationships, activity patter
 | Telegago (Telegram)            | [Find out more](../osint-tools/telegago-telegram.md)             |
 | Telegram Spoiler Decoder       | [Find out more](../osint-tools/telegram-spoiler-decoder.md)      |
 | Who Posted What? Facebook Tool | [Find out more](../osint-tools/who-posted-what-facebook-tool.md) |
+| BirdHunt                       | [Find out more](../osint-tools/birdhunt.md)                      |
+|                                |                                                                  |

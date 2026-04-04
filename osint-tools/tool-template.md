@@ -64,7 +64,7 @@ Detail uses in reporting/investigations and link to any real-world examples.<br>
 
 ### Summary
 
-Summarise the pros and cons of the tool and which part of the OSINT worklfow it's most useful for.
+Summarise the pros and cons of the tool and which part of the OSINT workflow it's most useful for.
 
 
 

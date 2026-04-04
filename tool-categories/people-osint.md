@@ -6,6 +6,6 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | ---------------- | --------------------------------------------------- |
 | 192.com          | [Find out more](../osint-tools/192.com.md)          |
 | OSINT Industries | [Find out more](../osint-tools/osint-industries.md) |
-|                  |                                                     |
+| Osintly          | [Find out more](../osint-tools/osintly.md)          |
 |                  |                                                     |
 |                  |                                                     |

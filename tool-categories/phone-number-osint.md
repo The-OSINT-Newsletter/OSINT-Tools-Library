@@ -7,5 +7,5 @@ Phone number OSINT focuses on investigating telephone numbers to uncover associa
 | OSINT Industries | [Find out more](../osint-tools/osint-industries.md) |
 | Epieos           | [Find out more](../osint-tools/epieos.md)           |
 | LoLArchiver      | [Find out more](../osint-tools/lolarchiver.md)      |
-|                  |                                                     |
+| Osintly          | [Find out more](../osint-tools/osintly.md)          |
 |                  |                                                     |
