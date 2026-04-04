@@ -32,7 +32,7 @@ The platform turns that raw stolen data into searchable intelligence you can use
 
 Note: email addresses usually give the most precise results.&#x20;
 
-<figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Review results showing number of infected machines, exposed credentials, infection timelines, and linked employees or users.**
 

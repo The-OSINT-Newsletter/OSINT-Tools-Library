@@ -27,7 +27,7 @@ Instagram Story Saver is a browser‑based downloader that lets users enter a pu
 
 1. **Open** [**storysaver.net**](http://storysaver.net) **in your browser. You should see the page below:**&#x20;
 
-<figure><img src="../.gitbook/assets/unknown (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**Note:** Be mindful of clicking on different buttons as the site is riddled with ads._ <br>
 

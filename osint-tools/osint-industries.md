@@ -29,7 +29,7 @@ OSINT Industries provides a real‑time OSINT platform that scans open web sourc
 
 Our example search scanned 421 sources.&#x20;
 
-<figure><img src="../.gitbook/assets/unknown (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Review generated intelligence, linked accounts, breaches, locations, activity timelines, etc.**
 

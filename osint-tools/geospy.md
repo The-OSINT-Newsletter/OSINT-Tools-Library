@@ -28,7 +28,7 @@ GeoSpy uses machine learning trained on large image datasets to recognise geogra
 
 **1. Upload an image and wait for analysis.**
 
-<figure><img src="../.gitbook/assets/unknown (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Review suggested locations and cross-check with maps or satellite imagery.**&#x20;
 

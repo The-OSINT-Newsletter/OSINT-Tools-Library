@@ -30,21 +30,21 @@ The platform also includes monitoring, an AI Analyst, investigation project mana
 
 **1. Log in to osint.ly, enter an identifier (username, email, IP, domain, phone number, or crypto address) into the search bar.**
 
-<figure><img src="../.gitbook/assets/unknown (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (9).png" alt=""><figcaption></figcaption></figure>
 
 **2. Let the platform auto-detect the input type, adjust options such as leak sources or dorking if needed, and launch the search to receive streamed results from multiple providers simultaneously.**
 
 You can view all results like so:
 
-<figure><img src="../.gitbook/assets/unknown (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (10).png" alt=""><figcaption></figcaption></figure>
 
 Registered accounts:
 
-<figure><img src="../.gitbook/assets/unknown (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (11).png" alt=""><figcaption></figcaption></figure>
 
 Leaked results:
 
-<figure><img src="../.gitbook/assets/unknown (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (12).png" alt=""><figcaption></figcaption></figure>
 
 You can also [access Osintly’s step-by-step guide here. ](https://docs.osint.ly/guides/quickstart-user)
 
