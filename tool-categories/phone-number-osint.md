@@ -9,3 +9,4 @@ Phone number OSINT focuses on investigating telephone numbers to uncover associa
 | LoLArchiver                   | [Find out more](../osint-tools/lolarchiver.md)                   |
 | Telegram Phone Number Checker | [Find out more](../osint-tools/telegram-phone-number-checker.md) |
 | Phunter                       | [Find out more](../osint-tools/phunter.md)                       |
+| Osintly                       | [Find out more](../osint-tools/osintly.md)                       |
