@@ -90,7 +90,7 @@ OSINT Industries performs real‑time searches on publicly available digital dat
 
 ### Ownership
 
-OSINT Industries is owned and led by British CEO [Nathaniel Fried.](https://www.linkedin.com/in/nathanielfried/)
+OSINT Industries is led by British CEO [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/), President [Megadose](https://www.linkedin.com/in/megadose/), CTO [Ismail E](https://br.linkedin.com/in/ismaiyl), and CRO [Thomas H](https://www.linkedin.com/in/thert/).
 
 ### Ethical Considerations
 
