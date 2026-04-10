@@ -10,5 +10,5 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | Forensically               | [Find out more](../osint-tools/forensically.md)               |
 | Google Lens                | [Find out more](../osint-tools/google-lens.md)                |
 | Filmot                     | [Find out more](../osint-tools/filmot.md)                     |
-|                            |                                                               |
+| Profile Image Intel        | [Find out more](../osint-tools/profile-image-intel.md)        |
 

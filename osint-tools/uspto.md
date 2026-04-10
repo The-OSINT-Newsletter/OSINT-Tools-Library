@@ -29,11 +29,11 @@ USPTO is the official US government platform for patents and trademarks, allowin
 
 **1. For Patents, run a quick lookup by entering a Patent or Publication number.**
 
-<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Alternatively, complete a more advanced, filtered search (although it’s called a ‘basic search’ here) including details such as an applicant name or attorney firm.**&#x20;
 
-<figure><img src="../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Review the search results like the below:**&#x20;
 

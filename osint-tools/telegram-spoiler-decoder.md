@@ -33,19 +33,19 @@ See here: [https://github.com/overtake/TelegramSwift/blob/579cebbf0c01fd41b712ef
 
 1. Head to [https://spoiler.soxoj.com/](https://spoiler.soxoj.com/) to view the screen below.&#x20;
 
-![](<../.gitbook/assets/unknown (2) (1) (1).png>)
+![](<../.gitbook/assets/unknown (2) (1) (1) (1).png>)
 
 &#x20;                                                            &#x20;
 
 2\. Obtain your image (from a Telegram channel, saved file or web scraping and upload it for decoding.
 
-![](<../.gitbook/assets/unknown (3) (1) (1).png>)
+![](<../.gitbook/assets/unknown (3) (1) (1) (1).png>)
 
 3\. Let the Decoder do its magic and voila! Your decoded text should appear in the blue box, in the same way as the below:
 
 <br>
 
-![](<../.gitbook/assets/unknown (4) (1) (1).png>)
+![](<../.gitbook/assets/unknown (4) (1) (1) (1).png>)
 
 
 
