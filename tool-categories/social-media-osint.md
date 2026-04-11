@@ -13,4 +13,7 @@ These tools help investigators identify accounts, relationships, activity patter
 | Telegram Spoiler Decoder       | [Find out more](../osint-tools/telegram-spoiler-decoder.md)      |
 | Who Posted What? Facebook Tool | [Find out more](../osint-tools/who-posted-what-facebook-tool.md) |
 | BirdHunt                       | [Find out more](../osint-tools/birdhunt.md)                      |
-|                                |                                                                  |
+| Waybien                        | [Find out more](../osint-tools/waybien.md)                       |
+| Twitter Viewer                 | [Find out more](../osint-tools/twitter-viewer.md)                |
+| Sotwe                          | [Find out more](../osint-tools/sotwe.md)                         |
+| BlueSky Follow Finder          | [Find out more](../osint-tools/bluesky-follow-finder.md)         |

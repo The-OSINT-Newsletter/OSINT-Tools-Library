@@ -11,4 +11,5 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | Google Lens                | [Find out more](../osint-tools/google-lens.md)                |
 | Filmot                     | [Find out more](../osint-tools/filmot.md)                     |
 | Profile Image Intel        | [Find out more](../osint-tools/profile-image-intel.md)        |
+| Crowd Counter              | [Find out more](../osint-tools/crowd-counter.md)              |
 

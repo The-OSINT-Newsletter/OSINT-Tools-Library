@@ -27,11 +27,11 @@ urlscan.io acts like a digital investigator, visiting a website so you don’t h
 
 1. **Paste a URL into the search bar and click “Scan”.**
 
-<figure><img src="../.gitbook/assets/unknown (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Wait for the scan to complete (usually seconds) and explore the results via tabs (Summary, Links, DOM, etc.)**
 
-<figure><img src="../.gitbook/assets/unknown (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Top tip: Use filters and search to pivot into related domains or infrastructure.**
 

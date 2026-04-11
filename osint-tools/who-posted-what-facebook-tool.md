@@ -31,17 +31,17 @@ Posts that are not visible to your account, such as private posts or content out
 
 1. **Head to the** [**Who posted what URL**](https://whopostedwhat.com/) **on your web browser, logging into your Facebook account. It should look like the below:**
 
-<figure><img src="../.gitbook/assets/unknown (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 2. **Either enter in a specific Facebook profile URL if you’re searching for posts from a specific user, or search a specific keyword on a specific day, month, year, time range or location, as in the below:**&#x20;
 
-<figure><img src="../.gitbook/assets/unknown (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _For example, we used the search term ‘covid’ in March 2020 which produced a wide range of results (as expected)._  <br>
 
-<figure><img src="../.gitbook/assets/unknown (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. **You can also search a specific keyword from a specific user using the search option here:**
 
