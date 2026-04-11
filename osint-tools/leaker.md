@@ -71,7 +71,7 @@ leaker -L
 
 ### Cost
 
-* [] Free
+* [ ] Free
 * [x] Partially Free
 * [ ] Paid
 
