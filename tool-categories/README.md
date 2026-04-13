@@ -17,7 +17,7 @@ To use this Library:&#x20;
 
 Tools for analysing accounts, posts, and online networks.
 
-[View category](social-media-osint.md)
+[View category](social-media-osint/)
 
 #### Username OSINT:
 

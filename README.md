@@ -32,7 +32,7 @@ Each tool entry includes:
 
 ### Browse tools by category:
 
-* [Social Media OSINT](tool-categories/social-media-osint.md)
+* [Social Media OSINT](tool-categories/social-media-osint/)
 * [Username OSINT](tool-categories/username-osint.md)
 * [Email Address OSINT](tool-categories/email-address-osint.md)
 * [Phone Number OSINT](tool-categories/phone-number-osint.md)
