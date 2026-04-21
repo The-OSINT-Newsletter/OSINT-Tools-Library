@@ -5,7 +5,7 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | Tool        | Link                                           |
 | ----------- | ---------------------------------------------- |
 | Hudson Rock | [Find out more](../osint-tools/hudson-rock.md) |
-|             |                                                |
+| Meawfy      | [Find out more](../osint-tools/meawfy.md)      |
 |             |                                                |
 |             |                                                |
 |             |                                                |

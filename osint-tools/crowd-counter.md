@@ -25,17 +25,17 @@ Crowd Counter is a lightweight OSINT tool that helps estimate how many people ar
 
 **1. Estimate how large the area is where people are standing/sitting.**
 
-<figure><img src="../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Upload an image or paste an image URL into the tool.**
 
-<figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Mark or outline the area where the crowd is located.**
 
 **4. Apply density assumptions and generate an estimated count.**
 
-<figure><img src="../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

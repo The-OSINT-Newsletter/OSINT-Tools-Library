@@ -27,11 +27,11 @@ Twitter Viewer is a straightforward online tool that lets you browse Twitter pro
 
 **1. Navigate to**[ **https://twitterwebviewer.com/**](https://twitterwebviewer.com/) **and enter a username, keyword, hashtag or URL you want to view.**
 
-<figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Simply browse public tweets, replies, media, and followers based on your search terms. (Oh look, it’s us!)**
 
-<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

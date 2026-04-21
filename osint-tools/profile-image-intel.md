@@ -33,9 +33,9 @@ It lets you:
 
 **1. Enter a profile URL or username into the search bar, as in the below examples.**
 
-<figure><img src="../.gitbook/assets/unknown (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/unknown (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. View timestamps, when the image was last modified, and review matches to identify reused images or linked profiles.**
 
