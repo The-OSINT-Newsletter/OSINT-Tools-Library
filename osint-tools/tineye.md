@@ -27,13 +27,13 @@ TinEye searches the web using image recognition instead of keywords. It identifi
 
 **1. Upload an image file or paste an image URL into the search bar.**
 
-<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (11).png" alt=""><figcaption></figcaption></figure>
 
 **2. Review the results list showing where the image appears online.**
 
 **3. Use filters (oldest, newest, best match) to trace origin or spot edits. E.g. we searched by ‘oldest’ here:**
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

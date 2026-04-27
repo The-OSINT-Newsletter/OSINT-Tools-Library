@@ -29,11 +29,11 @@ Note: The website itself is quite spammy everywhere you click so be careful of b
 
 **1. Go to**[ **https://www.sotwe.com/**](https://www.sotwe.com/) **and enter a username, hashtag, or keyword in the search bar.**
 
-<figure><img src="../.gitbook/assets/unknown (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Browse public accounts, tweets, media, or trending topics.**
 
-<figure><img src="../.gitbook/assets/unknown (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

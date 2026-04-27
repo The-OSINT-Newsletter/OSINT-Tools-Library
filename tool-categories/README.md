@@ -49,6 +49,12 @@ Tools for investigating domain names to establish ownership details, registratio
 
 [View category](domain-name-osint.md)
 
+#### Data Extraction OSINT:
+
+Tools for extracting and structuring publicly available data from websites, documents, and online sources to support analysis and investigation.
+
+[View category](data-extraction-osint.md)
+
 #### Foundational OSINT Tools:
 
 Tools that provide essential starting points for OSINT investigations, helping gather, verify, and organise basic information from multiple sources.

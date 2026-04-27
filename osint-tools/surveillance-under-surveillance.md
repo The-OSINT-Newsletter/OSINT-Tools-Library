@@ -27,11 +27,11 @@ Surveillance under surveillance pulls data from OpenStreetMap to display where C
 
 **1. Enter a location or zoom into a specific area on the map.**
 
-<figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Click on camera icons to see available details (type, position, direction if mapped).**
 
-<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Cross-reference with other sources (e.g. street view or on-the-ground footage) for verification.**
 

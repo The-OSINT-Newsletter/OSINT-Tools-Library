@@ -27,11 +27,11 @@ Epieos is like a digital footprint finder. You give it an email address or phone
 
 **1. Go to**[ **https://epieos.com/**](https://epieos.com/) **and choose your search type (email or phone number).**
 
-<figure><img src="../.gitbook/assets/unknown (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Enter your target data and review results including accounts and leaks (Limited results without a paid account). The tool is linked to Have I been pwned? to reveal data breaches.**
 
-<figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. With a paid account, Epieos returns results relating to various different accounts including Facebook, Adobe, Etsy, Strava, Fitbit, Trello, Flickr etc. to name but a few!**
 

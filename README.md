@@ -38,6 +38,7 @@ Each tool entry includes:
 * [Phone Number OSINT](tool-categories/phone-number-osint.md)
 * [Public Records OSINT](tool-categories/public-records-osint.md)
 * [Domain Name OSINT](tool-categories/domain-name-osint.md)
+* [Data Extraction OSINT](tool-categories/data-extraction-osint.md)
 * [Foundational OSINT Tools](tool-categories/foundational-osint-tools.md)
 * [People OSINT](tool-categories/people-osint.md)
 * [Language Translation OSINT](tool-categories/language-translation-osint.md)

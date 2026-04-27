@@ -12,3 +12,4 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | Wikimapia                       | [Find out more](../osint-tools/wikimapia.md)                       |
 | GeoSpy                          | [Find out more](../osint-tools/geospy.md)                          |
 | Surveillance under Surveillance | [Find out more](../osint-tools/surveillance-under-surveillance.md) |
+| MW Geofind                      | [Find out more](../osint-tools/mw-geofind.md)                      |

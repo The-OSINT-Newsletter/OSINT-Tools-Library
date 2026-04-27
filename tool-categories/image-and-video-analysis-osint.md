@@ -13,4 +13,6 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | Profile Image Intel        | [Find out more](../osint-tools/profile-image-intel.md)        |
 | Crowd Counter              | [Find out more](../osint-tools/crowd-counter.md)              |
 | TinEye                     | [Find out more](../osint-tools/tineye.md)                     |
+| Pic Detective              | [Find out more](../osint-tools/pic-detective.md)              |
+| PimEyes                    | [Find out more](../osint-tools/pimeyes.md)                    |
 
