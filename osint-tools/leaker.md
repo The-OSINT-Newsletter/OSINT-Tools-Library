@@ -48,7 +48,7 @@ Some sources like ProxyNova require no API key. You can use \`-p\` flag or the \
 
 leaker email user@example.com
 
-<figure><img src="../.gitbook/assets/unknown (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (81) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Refine your search with flags.**
 

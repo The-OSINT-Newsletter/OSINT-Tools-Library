@@ -27,11 +27,11 @@ Deaddrop is a specialist OSINT tool designed to index and search Telegram conten
 
 **2. Enter keywords, usernames, or topics into the search bar.**
 
-<figure><img src="../.gitbook/assets/unknown (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Analyse returned Telegram channels, posts, and associated metadata, and pivot into Telegram for deeper investigation. You can also export results into a CSV file for further analysis.**
 
-<figure><img src="../.gitbook/assets/unknown (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

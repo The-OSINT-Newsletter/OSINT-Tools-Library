@@ -11,3 +11,4 @@ Email OSINT focuses on investigating email addresses to uncover associated accou
 | Zen              | [Find out more](../osint-tools/zen.md)              |
 | Osintly          | [Find out more](../osint-tools/osintly.md)          |
 | Zehef            | [Find out more](../osint-tools/zehef.md)            |
+| Sherlock Eye     | [Find out more](../osint-tools/sherlock-eye.md)     |

@@ -29,7 +29,7 @@ FPDS tracks billions of dollars in contracts, letting you see who’s getting go
 
 **2. Use the “Contract Data” search tool to filter by agency, date range, or contractor. This is our search for Boeing:**
 
-<figure><img src="../.gitbook/assets/unknown (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. In the top right of the search page, you can select PDF, CSV, or Atom/RSS to export your results for analysis.**&#x20;
 

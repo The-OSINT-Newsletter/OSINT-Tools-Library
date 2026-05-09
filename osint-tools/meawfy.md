@@ -28,13 +28,13 @@ Meawfy is a search and discovery tool that uses crawler-based indexing to scan p
 
 **1. Enter a keyword related to the file or topic you’re searching for.**
 
-<figure><img src="../.gitbook/assets/unknown (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Review results pulled from MEGA.nz public file indexes.**
 
 **3. Open links to inspect or download publicly accessible files.**
 
-<figure><img src="../.gitbook/assets/unknown (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

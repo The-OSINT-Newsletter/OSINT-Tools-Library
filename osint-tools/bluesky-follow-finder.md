@@ -35,7 +35,7 @@ This makes it useful for quickly identifying:
 
 **1. Enter a Bluesky handle and simply let the tool analyse the accounts that user follows.**
 
-<figure><img src="../.gitbook/assets/unknown (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Review the suggested accounts so you can look for frequently recommended profiles, identify niche experts/community hubs, and use results as leads for further investigation.**
 

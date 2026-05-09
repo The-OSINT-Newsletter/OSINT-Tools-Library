@@ -29,7 +29,7 @@ Nitter is a free, privacy-first front-end for Twitter/X. It strips out ads, trac
 
 **1. Enter a username, hashtag, or keyword into the search bar.**
 
-<figure><img src="../.gitbook/assets/unknown (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. You can also paste a direct tweet or profile link and replace twitter.com with** [**nitter.net**](http://nitter.net) **e.g.** nitter.net/username
 

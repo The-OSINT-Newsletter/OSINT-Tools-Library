@@ -25,13 +25,13 @@ MW Geofind pulls in geotagged YouTube videos and plots them on an interactive ma
 
 **1. Enter a location or manually move the map to your area of interest.**
 
-<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Adjust filters (date range, keywords, radius) to narrow results. Then click map markers to view and analyse videos directly.**
 
-<figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

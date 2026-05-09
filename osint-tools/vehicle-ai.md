@@ -27,11 +27,11 @@ Vehicle AI uses AI to help identify and analyse vehicles. By uploading an image 
 
 **1. Enter a vehicle registration, image, or identifier into the platform, then run AI analysis.**
 
-<figure><img src="../.gitbook/assets/unknown (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Examine the Vehicle Identification Report (which can be exported), cross-checking with other OSINT sources where possible.**
 
-<figure><img src="../.gitbook/assets/unknown (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

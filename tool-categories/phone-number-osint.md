@@ -10,3 +10,4 @@ Phone number OSINT focuses on investigating telephone numbers to uncover associa
 | Telegram Phone Number Checker | [Find out more](../osint-tools/telegram-phone-number-checker.md) |
 | Phunter                       | [Find out more](../osint-tools/phunter.md)                       |
 | Osintly                       | [Find out more](../osint-tools/osintly.md)                       |
+| Sherlock Eye                  | [Find out more](../osint-tools/sherlock-eye.md)                  |

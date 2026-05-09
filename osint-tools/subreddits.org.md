@@ -27,11 +27,11 @@ Subreddits.org acts as a simplified alternative to Reddit’s built-in search, m
 
 **1. Enter a keyword (interest, topic, or niche) into the search bar or browse through the list of subreddits which can appear as a ‘wall’ as the below, or filtered into a list:**
 
-<figure><img src="../.gitbook/assets/unknown (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Review suggested subreddits and identify relevant communities. (We searched ‘opensource’).
 
-<figure><img src="../.gitbook/assets/unknown (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Pivot to Reddit to analyse posts, users, and interactions within those communities.**
 

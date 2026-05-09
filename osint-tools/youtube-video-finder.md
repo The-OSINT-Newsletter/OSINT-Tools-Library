@@ -27,7 +27,7 @@ YouTube Video Finder is an OSINT pivot tool. Instead of searching for videos, it
 
 **1. Copy the YouTube video URL or extract the video ID and paste it into the tool’s input field.**
 
-<figure><img src="../.gitbook/assets/unknown (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (82) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Run the search to retrieve available video details and use the generated links to explore the video across different platforms.**&#x20;
 

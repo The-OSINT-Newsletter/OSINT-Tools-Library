@@ -25,7 +25,7 @@ Pic Detective is a reverse image search tool that helps investigators track wher
 
 **1. Upload an image or paste an image URL and run the reverse image search.**
 
-<figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Review matches to identify origin, reuse, or context.**
 

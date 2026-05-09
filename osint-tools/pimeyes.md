@@ -27,11 +27,11 @@ PimEyes uses facial recognition technology to scan the internet for images that 
 
 **1. Upload a clear image of a face and run the search to review matching results.**
 
-<figure><img src="../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Analyse links and sources to verify identity or image usage. You’ll need to upgrade to paid.**
 
-<figure><img src="../.gitbook/assets/unknown (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

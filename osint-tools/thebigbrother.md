@@ -39,7 +39,7 @@ It’s especially strong for:
 
 **3. Input your target (username, email, domain, etc.)**
 
-<figure><img src="../.gitbook/assets/unknown (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In practice; You could start with a username to map someone’s digital footprint, pivot to email lookups for deeper identity connections. use domain tools to uncover infrastructure, extract EXIF metadata from images for location clues, and investigate crypto wallets for financial trails etc.&#x20;
 

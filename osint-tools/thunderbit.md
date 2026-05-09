@@ -27,11 +27,11 @@ Thunderbit is a next-gen AI scraping tool that lets you extract data from websit
 
 **2. Open the target webpage and let Thunderbit detect extractable data.**
 
-<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Select fields or use AI auto-detection, then export to CSV, Excel, or database.**
 
-<figure><img src="../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **See it in action** [**here.**](https://x.com/osintnewsletter/status/2031762079510929723)
 

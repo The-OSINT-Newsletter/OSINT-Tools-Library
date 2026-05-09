@@ -30,7 +30,7 @@ The VIN Decoder from NHTSA translates a VIN into meaningful data pulled from the
 
 **2. Hit “Decode VIN” and review the structured results (expand fields for deeper detail).**
 
-<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can [view our fuller guide in The OSINT Newsletter here](https://osintnewsletter.com/p/71) to see how this search could fit into a wider investigation.
 

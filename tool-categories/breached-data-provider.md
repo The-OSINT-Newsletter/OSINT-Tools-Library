@@ -7,5 +7,5 @@ Breached data provider OSINT focuses on accessing and analysing datasets obtaine
 | Have I Been Pwned?       | [Find out more](../osint-tools/have-i-been-pwned.md)        |
 | Hudson Rock              | [Find out more](../osint-tools/hudson-rock.md)              |
 | District 4 Labs Darkside | [Find out more](../osint-tools/district-4-labs-darkside.md) |
+| Library of Leaks         | [Find out more](../osint-tools/library-of-leaks.md)         |
 | Leaker                   | [Find out more](../osint-tools/leaker.md)                   |
-|                          |                                                             |

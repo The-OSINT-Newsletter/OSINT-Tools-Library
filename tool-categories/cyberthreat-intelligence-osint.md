@@ -6,7 +6,7 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | --------------------- | -------------------------------------------------- |
 | Hudson Rock           | [Find out more](../osint-tools/hudson-rock.md)     |
 | Meawfy                | [Find out more](../osint-tools/meawfy.md)          |
+| File Phish            | [Find out more](../osint-tools/file-phish.md)      |
 | JSON Crack            | [Find out more](../osint-tools/json-crack.md)      |
 | Have I Been Squatted? | [Find out more](../osint-tools/tool-template-1.md) |
-|                       |                                                    |
 |                       |                                                    |

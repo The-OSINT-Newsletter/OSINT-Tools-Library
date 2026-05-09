@@ -27,7 +27,7 @@ Anna’s Archive is a meta-search engine that indexes content from various “sh
 
 **1. Enter a title, author, ISBN, or keyword into the search bar.**
 
-<figure><img src="../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Browse results aggregated from multiple sources and follow links to external mirrors or repositories to access the content.**
 
