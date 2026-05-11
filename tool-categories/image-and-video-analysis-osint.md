@@ -15,4 +15,6 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | TinEye                     | [Find out more](../osint-tools/tineye.md)                     |
 | Pic Detective              | [Find out more](../osint-tools/pic-detective.md)              |
 | PimEyes                    | [Find out more](../osint-tools/pimeyes.md)                    |
+| Image Whisperer            | [Find out more](../osint-tools/image-whisperer.md)            |
+| Hippie OSINT Toolkit       | [Find out more](../osint-tools/hippie-osint-toolkit.md)       |
 

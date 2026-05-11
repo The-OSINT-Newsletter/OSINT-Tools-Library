@@ -9,3 +9,4 @@ Breached data provider OSINT focuses on accessing and analysing datasets obtaine
 | District 4 Labs Darkside | [Find out more](../osint-tools/district-4-labs-darkside.md) |
 | Library of Leaks         | [Find out more](../osint-tools/library-of-leaks.md)         |
 | Leaker                   | [Find out more](../osint-tools/leaker.md)                   |
+| XposedOrNot              | [Find out more](../osint-tools/xposedornot.md)              |

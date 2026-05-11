@@ -11,3 +11,4 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | TheBigBrother            | [Find out more](../osint-tools/thebigbrother.md)            |
 | District 4 Labs Darkside | [Find out more](../osint-tools/district-4-labs-darkside.md) |
 | Sherlock Eye             | [Find out more](../osint-tools/sherlock-eye.md)             |
+| Hippie OSINT Toolkit     | [Find out more](../osint-tools/hippie-osint-toolkit.md)     |

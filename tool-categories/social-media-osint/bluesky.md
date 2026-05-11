@@ -6,3 +6,4 @@
 | Treeverse             | [Find out more](../../osint-tools/treeverse.md)             |
 | Govsky                | [Find out more](../../osint-tools/govsky.md)                |
 | AzSky                 | [Find out more](../../osint-tools/azsky.md)                 |
+| Internect.info        | [Find out more](../../osint-tools/internect.info.md)        |

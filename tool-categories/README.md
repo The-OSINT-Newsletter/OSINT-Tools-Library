@@ -111,9 +111,21 @@ Tools for analysing publicly available data on cyber threats, including malware 
 
 #### Network Infrastructure OSINT:
 
-Tools for analysing IP addresses, domains, and network infrastructure data
+Tools for analysing IP addresses, domains, and network infrastructure data.
 
 [View category](network-infrastructure-osint.md)
+
+#### Conflict OSINT:
+
+Tools for analysing conflicts, military activity, and geopolitical events using publicly available information.
+
+[View category](conflict-osint.md)
+
+#### Fact-checking/Verification OSINT:
+
+Tools for validating claims, media, and information.
+
+[View category](fact-checking-verification-osint.md)
 
 
 
