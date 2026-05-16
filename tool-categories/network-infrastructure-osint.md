@@ -11,3 +11,4 @@ Network & Infrastructure OSINT focuses on discovering, indexing, and analyzing i
 | PhishTank     | [Find out more](../osint-tools/phishtank.md)     |
 | FOFA          | [Find out more](../osint-tools/fofa.md)          |
 | Netlas        | [Find out more](../osint-tools/netlas.md)        |
+| Domain Digger | [Find out more](../osint-tools/domain-digger.md) |

@@ -33,6 +33,8 @@
   * [Fact-checking/verification OSINT](tool-categories/fact-checking-verification-osint.md)
 * [OSINT Tools](osint-tools/README.md)
   * [Tool Template](osint-tools/tool-template.md)
+  * [Domain Digger](osint-tools/domain-digger.md)
+  * [Predicta Search](osint-tools/predicta-search.md)
   * [SPOT](osint-tools/spot.md)
   * [Image Whisperer](osint-tools/image-whisperer.md)
   * [Internect.info](osint-tools/internect.info.md)
