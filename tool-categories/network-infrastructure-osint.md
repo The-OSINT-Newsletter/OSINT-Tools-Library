@@ -12,3 +12,7 @@ Network & Infrastructure OSINT focuses on discovering, indexing, and analyzing i
 | FOFA          | [Find out more](../osint-tools/fofa.md)          |
 | Netlas        | [Find out more](../osint-tools/netlas.md)        |
 | Domain Digger | [Find out more](../osint-tools/domain-digger.md) |
+| Tiny Scan     | [Find out more](../osint-tools/tiny-scan.md)     |
+| Host.io       | [Find out more](../osint-tools/host.io.md)       |
+| Dorky         | [Find out more](../osint-tools/dorky.md)         |
+| XResolver     | [Find out more](../osint-tools/xresolver.md)     |

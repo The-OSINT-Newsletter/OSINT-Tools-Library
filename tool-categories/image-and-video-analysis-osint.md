@@ -17,4 +17,5 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | PimEyes                    | [Find out more](../osint-tools/pimeyes.md)                    |
 | Image Whisperer            | [Find out more](../osint-tools/image-whisperer.md)            |
 | Hippie OSINT Toolkit       | [Find out more](../osint-tools/hippie-osint-toolkit.md)       |
+| Human or AI                | [Find out more](../osint-tools/human-or-ai.md)                |
 

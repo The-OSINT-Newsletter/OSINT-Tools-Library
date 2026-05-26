@@ -9,4 +9,4 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | File Phish            | [Find out more](../osint-tools/file-phish.md)           |
 | JSON Crack            | [Find out more](../osint-tools/json-crack.md)           |
 | Have I Been Squatted? | [Find out more](../osint-tools/have-i-been-squatted.md) |
-|                       |                                                         |
+| Dorky                 | [Find out more](../osint-tools/dorky.md)                |
