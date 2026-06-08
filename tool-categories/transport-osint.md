@@ -8,4 +8,4 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | VIN Decoder from NHTSA | [Find out more](../osint-tools/vin-decoder-from-nhtsa.md) |
 | Vehicle AI             | [Find out more](../osint-tools/vehicle-ai.md)             |
 | MarineTraffic          | [Find out more](../osint-tools/marinetraffic.md)          |
-|                        |                                                           |
+| Global ADS-B Exchange  | [Find out more](../osint-tools/global-ads-b-exchange.md)  |

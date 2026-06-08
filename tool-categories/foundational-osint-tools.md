@@ -9,3 +9,5 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | Known Agents                  | [Find out more](../osint-tools/known-agents.md)                  |
 | Human or AI                   | [Find out more](../osint-tools/human-or-ai.md)                   |
 | Your social media fingerprint | [Find out more](../osint-tools/your-social-media-fingerprint.md) |
+| Maltego                       | [Find out more](../osint-tools/maltego.md)                       |
+| Forensic OSINT                | [Find out more](../osint-tools/forensic-osint.md)                |
