@@ -122,6 +122,7 @@
   * [Zen](osint-tools/zen.md)
   * [Hudson Rock](osint-tools/hudson-rock.md)
   * [OSINT Industries](osint-tools/osint-industries.md)
+  * [OSNT.IN](osint-tools/osnt-in.md)
   * [urlscan.io](osint-tools/urlscan.md)
   * [Epieos](osint-tools/epieos.md)
   * [LoLArchiver](osint-tools/lolarchiver.md)
