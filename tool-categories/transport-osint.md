@@ -9,3 +9,4 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | Vehicle AI             | [Find out more](../osint-tools/vehicle-ai.md)             |
 | MarineTraffic          | [Find out more](../osint-tools/marinetraffic.md)          |
 | Global ADS-B Exchange  | [Find out more](../osint-tools/global-ads-b-exchange.md)  |
+| Import Yeti            | [Find out more](../osint-tools/import-yeti.md)            |

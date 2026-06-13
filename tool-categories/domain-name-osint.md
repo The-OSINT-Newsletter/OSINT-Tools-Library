@@ -12,3 +12,5 @@ Domain Name OSINT focuses on researching websites and their domain registrations
 | Analyst Research Tools | [Find out more](../osint-tools/analyst-research-tools.md) |
 | Host.io                | [Find out more](../osint-tools/host.io.md)                |
 | DNS Dumpster           | [Find out more](../osint-tools/dns-dumpster.md)           |
+| Central Ops            | [Find out more](../osint-tools/central-ops.md)            |
+| ARIN                   | [Find out more](../osint-tools/arin.md)                   |

@@ -11,3 +11,8 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | Your social media fingerprint | [Find out more](../osint-tools/your-social-media-fingerprint.md) |
 | Maltego                       | [Find out more](../osint-tools/maltego.md)                       |
 | Forensic OSINT                | [Find out more](../osint-tools/forensic-osint.md)                |
+| Hunchly                       | [Find out more](../osint-tools/hunchly.md)                       |
+| Ubikron                       | [Find out more](../osint-tools/ubikron.md)                       |
+| OpenGraph Intel               | [Find out more](../osint-tools/opengraph-intel.md)               |
+| SIERRA                        | [Find out more](../osint-tools/sierra.md)                        |
+| Authentic8 Silo Workspace     | [Find out more](../osint-tools/authentic8-silo-workspace.md)     |

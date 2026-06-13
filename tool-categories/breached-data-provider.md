@@ -11,3 +11,4 @@ Breached data provider OSINT focuses on accessing and analysing datasets obtaine
 | Leaker                   | [Find out more](../osint-tools/leaker.md)                   |
 | XposedOrNot              | [Find out more](../osint-tools/xposedornot.md)              |
 | Predicta Search          | [Find out more](../osint-tools/predicta-search.md)          |
+| Eyedex                   | [Find out more](../osint-tools/eyedex.md)                   |

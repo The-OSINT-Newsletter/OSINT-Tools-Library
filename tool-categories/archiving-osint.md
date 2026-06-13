@@ -6,6 +6,6 @@ Archiving OSINT focuses on saving and accessing past versions of websites, socia
 | --------------- | -------------------------------------------------- |
 | Wayback Machine | [Find out more](../osint-tools/wayback-machine.md) |
 | Anna's Archive  | [Find out more](../osint-tools/annas-archive.md)   |
-|                 |                                                    |
+| Lookyloo        | [Find out more](../osint-tools/lookyloo.md)        |
 |                 |                                                    |
 |                 |                                                    |

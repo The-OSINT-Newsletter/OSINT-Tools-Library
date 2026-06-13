@@ -9,3 +9,5 @@ Public Records OSINT focuses on gathering information from Government and offici
 | Federal Procurement Data System (FPDS)            | [Find out more](../osint-tools/fpds.md)             |
 | 527 Explorer (US)                                 | [Find out more](../osint-tools/527-explorer.md)     |
 | EU Sanctions Map                                  | [Find out more](../osint-tools/eu-sanctions-map.md) |
+| OpenSecrets                                       | [Find out more](../osint-tools/opensecrets.md)      |
+| Import Yeti                                       | [Find out more](../osint-tools/import-yeti.md)      |
