@@ -118,6 +118,7 @@
   * [Twitter Viewer](osint-tools/twitter-viewer.md)
   * [Crowd Counter](osint-tools/crowd-counter.md)
   * [Sotwe](osint-tools/sotwe.md)
+  * [Xquik](osint-tools/xquik.md)
   * [Bluesky Follow Finder](osint-tools/bluesky-follow-finder.md)
   * [Zehef](osint-tools/zehef.md)
   * [TheBigBrother](osint-tools/thebigbrother.md)
