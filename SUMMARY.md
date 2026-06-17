@@ -173,4 +173,5 @@
   * [Shodan](osint-tools/shodan.md)
   * [Dune](osint-tools/dune.md)
   * [Filmot](osint-tools/filmot.md)
+  * [Lullar](osint-tools/lullar.md)
 * [Submission Guide](submission-guide.md)
