@@ -38,6 +38,9 @@ Autostitch works from unordered collections of images, automatically combines ov
 
 You can also view this useful YouTube Tutorial [here. ](https://www.youtube.com/watch?v=8XjUIG4sZO8)
 
+**Note:** the MacOS version is broken in Ventura/Sonoma.\
+According to the site, if you have an old version it can still be run from the command line, e.g., cd /Applications/AutoStitch.app/Contents/MacOS; ./AutoStitch
+
 ### Cost:
 
 * [ ] Paid

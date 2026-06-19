@@ -16,3 +16,4 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | NAMINT                   | [Find out more](../osint-tools/namint.md)                   |
 | That's Them              | [Find out more](../osint-tools/thats-them.md)               |
 | IDCrawl                  | [Find out more](../osint-tools/idcrawl.md)                  |
+| AllPeople                | [Find out more](../osint-tools/allpeople.md)                |

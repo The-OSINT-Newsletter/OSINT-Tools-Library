@@ -18,4 +18,7 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | Image Whisperer            | [Find out more](../osint-tools/image-whisperer.md)            |
 | Hippie OSINT Toolkit       | [Find out more](../osint-tools/hippie-osint-toolkit.md)       |
 | Human or AI                | [Find out more](../osint-tools/human-or-ai.md)                |
+| MW Metadata                | [Find out more](../osint-tools/mw-metadata.md)                |
+| Jimpl                      | [Find out more](../osint-tools/jimpl.md)                      |
+| Oceanir                    | [Find out more](../osint-tools/oceanir.md)                    |
 

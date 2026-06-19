@@ -16,3 +16,4 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | OpenGraph Intel               | [Find out more](../osint-tools/opengraph-intel.md)               |
 | SIERRA                        | [Find out more](../osint-tools/sierra.md)                        |
 | Authentic8 Silo Workspace     | [Find out more](../osint-tools/authentic8-silo-workspace.md)     |
+| OSINT Tracker                 | [Find out more](../osint-tools/osint-tracker.md)                 |

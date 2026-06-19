@@ -22,7 +22,7 @@ description: >-
 
 Bellingcat’s OpenStreetMap Search tool is for assisting researchers and journalists with geolocation tasks by querying public OpenStreetMap data.&#x20;
 
-It allows users to search for combinations of mapped features within a specified distance of each other and is a more user-friendly alternative to more advanced interfaces such as Overpass Turbo. I.e. Instead of manually constructing Overpass queries, users can input objects via a graphical interface and receive results plotted on a map.
+It allows users to search for combinations of mapped features within a specified distance of each other and is a more user-friendly alternative to more advanced interfaces such as Overpass Turbo. I.e. Instead of manually constructing Overpass queries, users can input objects via a graphical interface and receive results plotted on a map. There are also Feature presets you can make use of for ease.
 
 _**Note:**_ _This tool is open to public use for journalism and education. All use is audited to ensure compliance with Bellingcat's_ [_Acceptable Use Policy_](https://osm-search.bellingcat.com/tos)_._
 
