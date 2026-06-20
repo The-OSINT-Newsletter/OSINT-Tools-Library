@@ -37,7 +37,7 @@
   * [Bitcoin Whoswho](osint-tools/bitcoin-whoswho.md)
   * [Jimpl](osint-tools/jimpl.md)
   * [AllPeople](osint-tools/allpeople.md)
-  * [OSINT Tracker](osint-tools/osint-tracker.md)
+  * [OSINTracker](osint-tools/osintracker.md)
   * [Footprint IQ](osint-tools/footprint-iq.md)
   * [Air Cargo Tracking & News](osint-tools/air-cargo-tracking-and-news.md)
   * [MW Metadata](osint-tools/mw-metadata.md)

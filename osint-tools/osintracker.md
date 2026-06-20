@@ -5,28 +5,19 @@ description: >-
   export investigation reports.
 ---
 
-# OSINT Tracker
+# OSINTracker
 
-| **OSINT Tracker** | **Quick Overview**                                                                                       |
-| ----------------- | -------------------------------------------------------------------------------------------------------- |
-| URL               | [https://www.osintracker.com/](https://www.osintracker.com/)                                             |
-| What it does      | Maps entities, relationships, and investigative findings in a visual graph.                              |
-| How to use it     | Create an investigation, add entities, connect relationships, enrich findings, and export reports.       |
-| Cost              | Free.                                                                                                    |
-| Account required  | No.                                                                                                      |
-| Cookies           | Minimal/none logged during our session.                                                                  |
-| Ownership         | Created by French IT multimedia professional and OSINT analyst Matthieu Amiot.                           |
-| Use in Reporting  | Useful for visualising connections, documenting evidence trails, and presenting investigative findings.  |
+<table data-header-hidden><thead><tr><th width="260.33331298828125"></th><th></th></tr></thead><tbody><tr><td><strong>OSINTracker</strong></td><td><strong>Quick Overview</strong></td></tr><tr><td>URL</td><td><a href="https://www.osintracker.com/">https://www.osintracker.com/</a> </td></tr><tr><td>What it does</td><td>Maps entities, relationships, and investigative findings in a visual graph. </td></tr><tr><td>How to use it</td><td>Create an investigation, add entities, connect relationships, enrich findings, and export reports. </td></tr><tr><td>Cost</td><td>Free.</td></tr><tr><td>Account required</td><td>No.</td></tr><tr><td>Cookies</td><td>Minimal/none logged during our session.</td></tr><tr><td>Ownership</td><td>Created by French IT multimedia professional and OSINT analyst Matthieu Amiot.</td></tr><tr><td>Use in Reporting</td><td>Useful for visualising connections, documenting evidence trails, and presenting investigative findings. </td></tr></tbody></table>
 
-### What does OSINT Tracker do?
+### What does OSINTracker do?
 
-OSINT Tracker is an investigation management and visualisation platform designed for OSINT analysts, journalists, researchers, and investigators. It enables users to create structured investigations by linking people, organisations, domains, usernames, emails, IP addresses, events, and other entities into an interactive relationship graph. Investigation data is stored locally in the browser rather than on an external server.
+OSINTracker is an investigation management and visualisation platform designed for OSINT analysts, journalists, researchers, and investigators. It enables users to create structured investigations by linking people, organisations, domains, usernames, emails, IP addresses, events, and other entities into an interactive relationship graph. Investigation data is stored locally in the browser rather than on an external server.
 
 **The lowdown:** It focuses on structuring and documenting investigations rather than collecting data itself.&#x20;
 
 ### How to Use:
 
-**1. Open OSINT Tracker and create a new investigation.**
+**1. Open OSINTracker and create a new investigation.**
 
 <img src="../.gitbook/assets/unknown (215).png" alt="" height="328" width="602">
 
@@ -38,7 +29,7 @@ OSINT Tracker is an investigation management and visualisation platform designed
 
 **3. Use built-in resources and connectors to enrich entities, import results from supported OSINT services, analyze connections, and export findings as HTML, Markdown, CSV, JSON, or PNG graph images.**&#x20;
 
-**Note:** You can import OSINT Industries data into OSINT tracker.&#x20;
+**Note:** You can import OSINT Industries data into OSINTracker.&#x20;
 
 You can also [view OSINT Tracker’s Training Kit here. ](https://www.osintracker.com/training-kit)
 
@@ -63,7 +54,7 @@ Minimal/none logged during our site session 17 June 2026.
 
 ### Use in Reporting
 
-OSINT Tracker is used in reporting to:
+OSINTracker is used in reporting to:
 
 * Create clear visual link-analysis charts.
 * Demonstrate relationships between entities.
@@ -85,11 +76,11 @@ The platform is primarily aimed at helping investigators organise entities, rela
 
 ### Summary
 
-OSINT Tracker is best viewed as an investigation management and link-analysis platform rather than a data collection tool. Its strengths lie in organising, visualising, and documenting investigative findings while maintaining local control of investigation data. It’s particularly useful for analysts who need a structured way to manage complex investigations and produce professional reports.
+OSINTracker is best viewed as an investigation management and link-analysis platform rather than a data collection tool. Its strengths lie in organising, visualising, and documenting investigative findings while maintaining local control of investigation data. It’s particularly useful for analysts who need a structured way to manage complex investigations and produce professional reports.
 
 ### Ownership
 
-OSINT Tracker is privately owned and was created by French IT multimedia professional and OSINT analyst [Matthieu Amiot](https://fic.app.swapcard.com/widget/event/forum-incyber-2024/person/RXZlbnRQZW9wbGVfMjg3MjQwNTA=).
+OSINTracker is privately owned and was created by French IT multimedia professional and OSINT analyst [Matthieu Amiot](https://fic.app.swapcard.com/widget/event/forum-incyber-2024/person/RXZlbnRQZW9wbGVfMjg3MjQwNTA=).
 
 ### Ethical Considerations
 
