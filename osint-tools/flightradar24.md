@@ -34,6 +34,8 @@ Flightradar24 is a live flight tracking tool that collects aircraft location dat
 
 The free version allows users to track flights and view basic information. Paid subscriptions provide additional features such as longer historical flight playback and advanced filters.
 
+There is currently a free 7-day trial to try premium features (correct as of 25 June 2026).&#x20;
+
 ## Data Processing
 
 ### Account required:

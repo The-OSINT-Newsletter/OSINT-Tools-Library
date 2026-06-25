@@ -46,6 +46,8 @@ Typical information GHunt may uncover includes:
 
 You can find[ our full guide here.](https://osintnewsletter.com/p/ghunt?hide_intro_popup=true)
 
+**Note:** There is currently an email lookup error where GHunt authenticates successfully and loads the stored session correctly, but crashes during the email lookup phase with a `KeyError: 'container'`. (Correct at time of writing; 25 June 2026).&#x20;
+
 ### Cost:
 
 * [ ] Paid

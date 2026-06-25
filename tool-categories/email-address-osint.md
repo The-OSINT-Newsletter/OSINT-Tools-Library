@@ -13,3 +13,5 @@ Email OSINT focuses on investigating email addresses to uncover associated accou
 | Zehef                  | [Find out more](../osint-tools/zehef.md)                  |
 | Sherlock Eye           | [Find out more](../osint-tools/sherlock-eye.md)           |
 | Analyst Research Tools | [Find out more](../osint-tools/analyst-research-tools.md) |
+| BeenVerified           | [Find out more](../osint-tools/beenverified.md)           |
+| Aeroleads              | [Find out more](../osint-tools/aeroleads.md)              |

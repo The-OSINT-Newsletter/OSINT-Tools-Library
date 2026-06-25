@@ -11,3 +11,5 @@ Phone number OSINT focuses on investigating telephone numbers to uncover associa
 | Phunter                       | [Find out more](../osint-tools/phunter.md)                       |
 | Osintly                       | [Find out more](../osint-tools/osintly.md)                       |
 | Sherlock Eye                  | [Find out more](../osint-tools/sherlock-eye.md)                  |
+| BeenVerified                  | [Find out more](../osint-tools/beenverified.md)                  |
+| Aeroleads                     | [Find out more](../osint-tools/aeroleads.md)                     |

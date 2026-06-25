@@ -17,3 +17,6 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | That's Them              | [Find out more](../osint-tools/thats-them.md)               |
 | IDCrawl                  | [Find out more](../osint-tools/idcrawl.md)                  |
 | AllPeople                | [Find out more](../osint-tools/allpeople.md)                |
+| Lullar                   | [Find out more](../osint-tools/lullar.md)                   |
+| BeenVerified             | [Find out more](../osint-tools/beenverified.md)             |
+| Aeroleads                | [Find out more](../osint-tools/aeroleads.md)                |

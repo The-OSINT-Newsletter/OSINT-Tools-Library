@@ -41,15 +41,13 @@ Basically, what you’ve got here is a broad technical toolkit for image verific
 
 ### How to Use:
 
-1. **Head to the** [**Forensically website.** ](https://29a.ch/photo-forensics/#forensic-magnifier)
+1. **Head to the** [**Forensically website**](https://29a.ch/photo-forensics/#forensic-magnifier) **and simply upload an image directly from your device by clicking ‘Open File’.**
 
 <figure><img src="../.gitbook/assets/unknown (15) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. **Simply upload an image directly from your device by clicking ‘Open File’.**
+**2. Your image will appear in the main screen and you can navigate in the side bar to select which forensic tools you’d like to use e.g. Clone Detection, Error Level Analysis, Noise Analysis etc.** &#x20;
 
-
-
-3. **Your image will appear in the main screen and you can navigate in the side bar to select which forensic tools you’d like to use e.g. Clone Detection, Error Level Analysis, Noise Analysis etc.** &#x20;
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/unknown (16) (1).png" alt=""><figcaption></figcaption></figure>
 

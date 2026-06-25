@@ -16,3 +16,4 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | Picarta                         | [Find out more](../osint-tools/picarta.md)                         |
 | SPOT                            | [Find out more](../osint-tools/spot.md)                            |
 | Copernicus Browser              | [Find out more](../osint-tools/copernicus-browser.md)              |
+| Mapillary                       | [Find out more](../osint-tools/mapillary.md)                       |
