@@ -21,4 +21,5 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | MW Metadata                | [Find out more](../osint-tools/mw-metadata.md)                |
 | Jimpl                      | [Find out more](../osint-tools/jimpl.md)                      |
 | Oceanir                    | [Find out more](../osint-tools/oceanir.md)                    |
+| Deepware                   | [Find out more](../osint-tools/deepware.md)                   |
 

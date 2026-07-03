@@ -1,4 +1,4 @@
-# Multiple Platforms
+# Other/Multiple Platforms
 
 | **Tool**               | **Link**                                                     |
 | ---------------------- | ------------------------------------------------------------ |
@@ -9,4 +9,7 @@
 | ToolsCord              | [Find out more](../../osint-tools/toolscord.md)              |
 | Discord Leaks          | [Find out more](../../osint-tools/discord-leaks.md)          |
 | Export Comments        | [Find out more](../../osint-tools/export-comments.md)        |
+| Disboard               | [Find out more](../../osint-tools/disboard.md)               |
+| F5Bot                  | [Find out more](../../osint-tools/f5bot.md)                  |
+| Graph Tips             | [Find out more](../../osint-tools/graph-tips.md)             |
 

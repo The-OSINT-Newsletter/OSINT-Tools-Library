@@ -42,6 +42,8 @@ Filmot is like a search engine for spoken content on YouTube. Instead of just se
 
 3. **Simply browse results and refine using the filters to the left.**
 
+**Extra functionality**: Logged-in users can now add private notes to videos and enable daily email reports for new results.
+
 ### Cost:
 
 * [ ] Paid

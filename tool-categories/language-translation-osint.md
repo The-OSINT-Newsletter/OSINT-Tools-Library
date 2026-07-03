@@ -6,6 +6,6 @@ Language Translation OSINT helps investigators understand content in foreign lan
 | ---------------- | --------------------------------------------------- |
 | DeepL Translator | [Find out more](../osint-tools/deepl-translator.md) |
 | 2lingual Search  | [Find out more](../osint-tools/2lingual-search.md)  |
-|                  |                                                     |
+| Apertium         | [Find out more](../osint-tools/apertium.md)         |
 |                  |                                                     |
 |                  |                                                     |
