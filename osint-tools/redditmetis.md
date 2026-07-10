@@ -43,6 +43,8 @@ Whilst it’s not forensic-grade analysis (and shouldn’t be treated as such), 
 
 <figure><img src="../.gitbook/assets/unknown (73).png" alt=""><figcaption></figcaption></figure>
 
+**Note:** The platform can be a little temperamental in terms of not cooperating with certain plugins/ad blockers.
+
 ### Cost
 
 * [x] Free
