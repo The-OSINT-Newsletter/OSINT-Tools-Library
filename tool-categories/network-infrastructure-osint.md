@@ -19,3 +19,4 @@ Network & Infrastructure OSINT focuses on discovering, indexing, and analyzing i
 | Central Ops   | [Find out more](../osint-tools/central-ops.md)   |
 | Lookyloo      | [Find out more](../osint-tools/lookyloo.md)      |
 | ARIN          | [Find out more](../osint-tools/arin.md)          |
+| SynapsInt     | [Find out more](../osint-tools/synapsint.md)     |

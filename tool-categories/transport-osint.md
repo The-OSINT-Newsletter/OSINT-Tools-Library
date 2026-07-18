@@ -12,3 +12,7 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | Import Yeti                 | [Find out more](../osint-tools/import-yeti.md)                 |
 | Air Cargo Tracking and News | [Find out more](../osint-tools/air-cargo-tracking-and-news.md) |
 | autoDNA                     | [Find out more](../osint-tools/autodna.md)                     |
+| OpenSky Network             | [Find out more](../osint-tools/opensky-network.md)             |
+| Container Tracking          | [Find out more](../osint-tools/container-tracking.md)          |
+| CITES Trade Database        | [Find out more](../osint-tools/cites-trade-database.md)        |
+| Global Suppliers Online     | [Find out more](../osint-tools/global-suppliers-online.md)     |

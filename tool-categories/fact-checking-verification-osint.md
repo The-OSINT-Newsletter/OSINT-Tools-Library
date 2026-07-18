@@ -5,4 +5,6 @@ Fact-checking & Verification OSINT focuses on validating claims, media, and info
 | Tool                    | Link                                                       |
 | ----------------------- | ---------------------------------------------------------- |
 | Google Fact Check Tools | [Find out more](../osint-tools/google-fact-check-tools.md) |
+| Politifact              | [Find out more](../osint-tools/politifact.md)              |
+| Fact Check              | [Find out more](../osint-tools/fact-check.md)              |
 

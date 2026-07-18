@@ -13,3 +13,4 @@ Phone number OSINT focuses on investigating telephone numbers to uncover associa
 | Sherlock Eye                  | [Find out more](../osint-tools/sherlock-eye.md)                  |
 | BeenVerified                  | [Find out more](../osint-tools/beenverified.md)                  |
 | Aeroleads                     | [Find out more](../osint-tools/aeroleads.md)                     |
+| SynapsInt                     | [Find out more](../osint-tools/synapsint.md)                     |

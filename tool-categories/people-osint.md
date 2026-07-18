@@ -20,3 +20,4 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | Lullar                   | [Find out more](../osint-tools/lullar.md)                   |
 | BeenVerified             | [Find out more](../osint-tools/beenverified.md)             |
 | Aeroleads                | [Find out more](../osint-tools/aeroleads.md)                |
+| SynapsInt                | [Find out more](../osint-tools/synapsint.md)                |

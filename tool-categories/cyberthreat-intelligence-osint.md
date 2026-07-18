@@ -12,3 +12,4 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | Dorky                        | [Find out more](../osint-tools/dorky.md)                        |
 | Threat Actor Username Search | [Find out more](../osint-tools/threat-actor-username-search.md) |
 | Dark Reading                 | [Find out more](../osint-tools/dark-reading.md)                 |
+| FindTheScam                  | [Find out more](../osint-tools/findthescam.md)                  |
