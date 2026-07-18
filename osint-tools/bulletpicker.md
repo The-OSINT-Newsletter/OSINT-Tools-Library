@@ -5,22 +5,22 @@ description: >-
   identification.
 ---
 
-# Bullet Picker
+# Bulletpicker
 
-| **Bullet Picker** | **Quick Overview**                                                                                                                                              |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| URL               | [https://www.bulletpicker.com/index.html](https://www.bulletpicker.com/index.html)                                                                              |
-| What it does      | Helps users identify and compare ammunition types using images, specs, and cartridge data                                                                       |
-| How to use it     | Open the website, browse or search cartridge listings, then compare dimensions, markings, and references.                                                       |
-| Cost              | Free.                                                                                                                                                           |
-| Account required  | No.                                                                                                                                                             |
-| Cookies           | Mostly small functional website cookies, plus one security/verification cookie.                                                                                 |
-| Ownership         | Independent ammunition reference site owned and operated by Ted Carlson (recently retired project manager for the Department of Defense) based in Alabama, USA. |
-| Use in Reporting  | Useful for analysing weapon evidence in media, conflict zones, or forensic contexts.                                                                            |
+| **Bulletpicker** | **Quick Overview**                                                                                                                                              |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| URL              | [https://www.bulletpicker.com/index.html](https://www.bulletpicker.com/index.html)                                                                              |
+| What it does     | Helps users identify and compare ammunition types using images, specs, and cartridge data                                                                       |
+| How to use it    | Open the website, browse or search cartridge listings, then compare dimensions, markings, and references.                                                       |
+| Cost             | Free.                                                                                                                                                           |
+| Account required | No.                                                                                                                                                             |
+| Cookies          | Mostly small functional website cookies, plus one security/verification cookie.                                                                                 |
+| Ownership        | Independent ammunition reference site owned and operated by Ted Carlson (recently retired project manager for the Department of Defense) based in Alabama, USA. |
+| Use in Reporting | Useful for analysing weapon evidence in media, conflict zones, or forensic contexts.                                                                            |
 
-### What does Bullet Picker do?
+### What does Bulletpicker do?
 
-Bullet Picker is a niche reference database focused on ammunition identification. It provides visual and technical details about cartridges, helping analysts determine what type of bullet or round appears in images or recovered material. It’s especially helpful when you’re trying to match a round to a weapon system or verify claims in conflict reporting.&#x20;
+Bulletpicker is a niche reference database focused on ammunition identification. It provides visual and technical details about cartridges, helping analysts determine what type of bullet or round appears in images or recovered material. It’s especially helpful when you’re trying to match a round to a weapon system or verify claims in conflict reporting.&#x20;
 
 **The lowdown:** It’s essentially a specialist catalogue for bullets and cartridges.
 
@@ -57,7 +57,7 @@ The site uses mostly small functional website cookies, plus one security/verific
 
 ### Use in Reporting
 
-Bullet Picker is useful for:&#x20;
+Bulletpicker is useful for:&#x20;
 
 * Conflict OSINT investigations.
 * Weapon identification in imagery/video.
@@ -76,7 +76,7 @@ The tool is best understood as a reference/checking tool in OSINT workflows, and
 
 ### Summary
 
-Bullet Picker is a lightweight but useful OSINT reference for ammunition identification, best used as a supporting tool alongside imagery analysis and other weapons databases.
+Bulletpicker is a lightweight but useful OSINT reference for ammunition identification, best used as a supporting tool alongside imagery analysis and other weapons databases.
 
 ### Ownership
 
