@@ -121,6 +121,12 @@ Tools for analysing conflicts, military activity, and geopolitical events using 
 
 [View category](conflict-osint.md)
 
+#### Environment & Wildlife OSINT:
+
+Tools for analysing publicly available information about environments, ecosystems, wildlife, and habitats.
+
+[View category](environment-and-wildlife-osint.md)
+
 #### Fact-checking/Verification OSINT:
 
 Tools for validating claims, media, and information.

@@ -19,8 +19,6 @@ description: >-
 
 ### What does Inflact Instagram Profile Viewer do?
 
-What does Inflact Instagram Profile Viewer do?
-
 Inflact’s Instagram Profile Viewer acts as a front-end window into Instagram’s public-facing content. It strips away the need for an account and lets you anonymously observe profiles. You can scroll posts, reels and stories, read captions, extract hashtags, and get a feel for posting patterns, all without triggering views or interactions tied to your identity.
 
 It’s especially useful in early-stage reconnaissance when you want to avoid linking your activity to an investigation.<br>
@@ -36,6 +34,8 @@ It’s especially useful in early-stage reconnaissance when you want to avoid li
 **2. Browse posts, captions, and visible profile info anonymously.**
 
 <figure><img src="../.gitbook/assets/unknown (69).png" alt=""><figcaption></figcaption></figure>
+
+**Note:** The tool doesn't always find public profiles e.g. we tried one of ours and it couldn't find it.&#x20;
 
 ### Cost
 
@@ -78,7 +78,7 @@ Inflact Instagram Profile Viewer is useful for:
 
 Anonymous viewers like this one allow investigators to confirm usernames and aliases, identify associates via comments/followers, and ultimately, avoid alerting the subject.
 
-Note: Always timestamp and archive what you see, as social media content can change or disappear quickly.
+**Note:** Always timestamp and archive what you see, as social media content can change or disappear quickly.
 
 | **Capabilities**                                                                              | **Limitations**                                          |
 | --------------------------------------------------------------------------------------------- | -------------------------------------------------------- |

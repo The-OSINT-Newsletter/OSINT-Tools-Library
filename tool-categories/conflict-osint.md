@@ -8,5 +8,5 @@ Conflict OSINT focuses on discovering, verifying, and analysing information rela
 | Bamqam                       | [Find out more](../osint-tools/bamqam.md)                       |
 | OSNT.IN                      | [Find out more](../osint-tools/osnt.in.md)                      |
 | Country Studies              | [Find out more](../osint-tools/country-studies.md)              |
-| Bullet Picker                | [Find out more](../osint-tools/bullet-picker.md)                |
+| Bulletpicker                 | [Find out more](../osint-tools/bullet-picker.md)                |
 | Combined IUU Vessel List     | [Find out more](../osint-tools/combined-iuu-vessel-list.md)     |

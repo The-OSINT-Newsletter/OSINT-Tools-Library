@@ -17,3 +17,4 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | SIERRA                        | [Find out more](../osint-tools/sierra.md)                        |
 | Authentic8 Silo Workspace     | [Find out more](../osint-tools/authentic8-silo-workspace.md)     |
 | OSINTracker                   | [Find out more](../osint-tools/osintracker.md)                   |
+| FindTheScam                   | [Find out more](../osint-tools/findthescam.md)                   |
