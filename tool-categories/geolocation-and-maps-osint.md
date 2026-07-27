@@ -17,3 +17,6 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | SPOT                            | [Find out more](../osint-tools/spot.md)                            |
 | Copernicus Browser              | [Find out more](../osint-tools/copernicus-browser.md)              |
 | Mapillary                       | [Find out more](../osint-tools/mapillary.md)                       |
+| N2YO Satellite Tracker          | [Find out more](../osint-tools/n2yo-satellite-tracker.md)          |
+| SunCalc                         | [Find out more](../osint-tools/suncalc.md)                         |
+| MoonCalc                        | [Find out more](../osint-tools/mooncalc.md)                        |

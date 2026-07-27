@@ -18,3 +18,6 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | Authentic8 Silo Workspace     | [Find out more](../osint-tools/authentic8-silo-workspace.md)     |
 | OSINTracker                   | [Find out more](../osint-tools/osintracker.md)                   |
 | FindTheScam                   | [Find out more](../osint-tools/findthescam.md)                   |
+| GetProofAnchor                | [Find out more](../osint-tools/getproofanchor.md)                |
+| Copyleaks                     | [Find out more](../osint-tools/copyleaks.md)                     |
+| DuckDuckGo                    | [Find out more](../osint-tools/duckduckgo.md)                    |

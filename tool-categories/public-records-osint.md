@@ -20,3 +20,4 @@ Public Records OSINT focuses on gathering information from Government and offici
 | LittleSis                                         | [Find out more](../osint-tools/littlesis.md)                          |
 | Search Systems                                    | [Find out more](../osint-tools/search-systems.md)                     |
 | Business registers in EU countries                | [Find out more](../osint-tools/business-registers-in-eu-countries.md) |
+| OFAC Sanctions List Search                        | [Find out more](../osint-tools/ofac-sanctions-list-search.md)         |

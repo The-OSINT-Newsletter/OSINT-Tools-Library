@@ -13,3 +13,5 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | Threat Actor Username Search | [Find out more](../osint-tools/threat-actor-username-search.md) |
 | Dark Reading                 | [Find out more](../osint-tools/dark-reading.md)                 |
 | FindTheScam                  | [Find out more](../osint-tools/findthescam.md)                  |
+| IBM-X Force Exchange         | [Find out more](../osint-tools/ibm-x-force-exchange.md)         |
+| ScamDB                       | [Find out more](../osint-tools/scamdb.md)                       |
