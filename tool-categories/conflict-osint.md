@@ -10,3 +10,5 @@ Conflict OSINT focuses on discovering, verifying, and analysing information rela
 | Country Studies              | [Find out more](../osint-tools/country-studies.md)              |
 | Bulletpicker                 | [Find out more](../osint-tools/bullet-picker.md)                |
 | Combined IUU Vessel List     | [Find out more](../osint-tools/combined-iuu-vessel-list.md)     |
+| LiveUAMap                    | [Find out more](../osint-tools/liveuamap.md)                    |
+| Geoconfirmed                 | [Find out more](../osint-tools/geoconfirmed.md)                 |

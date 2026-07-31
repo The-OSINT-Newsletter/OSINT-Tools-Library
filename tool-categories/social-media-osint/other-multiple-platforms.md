@@ -12,4 +12,5 @@
 | Disboard               | [Find out more](../../osint-tools/disboard.md)               |
 | F5Bot                  | [Find out more](../../osint-tools/f5bot.md)                  |
 | Graph Tips             | [Find out more](../../osint-tools/graph-tips.md)             |
+| BoardReader            | [Find out more](../../osint-tools/boardreader.md)            |
 

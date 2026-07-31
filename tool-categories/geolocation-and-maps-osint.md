@@ -20,3 +20,5 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | N2YO Satellite Tracker          | [Find out more](../osint-tools/n2yo-satellite-tracker.md)          |
 | SunCalc                         | [Find out more](../osint-tools/suncalc.md)                         |
 | MoonCalc                        | [Find out more](../osint-tools/mooncalc.md)                        |
+| Geoconfirmed                    | [Find out more](../osint-tools/geoconfirmed.md)                    |
+| Open Infrastructure Map         | [Find out more](../osint-tools/open-infrastructure-map.md)         |

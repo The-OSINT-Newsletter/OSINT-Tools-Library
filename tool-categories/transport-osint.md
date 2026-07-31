@@ -16,3 +16,5 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | Container Tracking          | [Find out more](../osint-tools/container-tracking.md)          |
 | CITES Trade Database        | [Find out more](../osint-tools/cites-trade-database.md)        |
 | Global Suppliers Online     | [Find out more](../osint-tools/global-suppliers-online.md)     |
+| Open Infrastructure Map     | [Find out more](../osint-tools/open-infrastructure-map.md)     |
+| OSINT Tools Map             | [Find out more](../osint-tools/osint-tools-map.md)             |

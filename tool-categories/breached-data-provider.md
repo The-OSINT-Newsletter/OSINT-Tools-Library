@@ -15,3 +15,4 @@ Breached data provider OSINT focuses on accessing and analysing datasets obtaine
 | GrayhatWarfare           | [Find out more](../osint-tools/grayhatwarfare.md)           |
 | Predicta Search          | [Find out more](../osint-tools/predicta-search.md)          |
 | LeakIX                   | [Find out more](../osint-tools/leakix.md)                   |
+| LeakData.io              | [Find out more](../osint-tools/leakdata.io.md)              |

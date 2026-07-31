@@ -21,3 +21,4 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | BeenVerified             | [Find out more](../osint-tools/beenverified.md)             |
 | Aeroleads                | [Find out more](../osint-tools/aeroleads.md)                |
 | SynapsInt                | [Find out more](../osint-tools/synapsint.md)                |
+| OSINT Tools Map          | [Find out more](../osint-tools/osint-tools-map.md)          |

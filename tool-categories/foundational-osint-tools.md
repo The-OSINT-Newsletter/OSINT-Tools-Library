@@ -21,3 +21,4 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | GetProofAnchor                | [Find out more](../osint-tools/getproofanchor.md)                |
 | Copyleaks                     | [Find out more](../osint-tools/copyleaks.md)                     |
 | DuckDuckGo                    | [Find out more](../osint-tools/duckduckgo.md)                    |
+| Palette by OSINT Industries   | [Find out more](../osint-tools/palette.md)                       |
