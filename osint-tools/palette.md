@@ -1,45 +1,47 @@
 ---
 description: >-
-  Tool Description : A graph visualisation platform for mapping and analysing
-  OSINT data relationships.
+  Tool Description : A powerful graph visualisation platform with integrated
+  native search for mapping and analysing OSINT data relationships.
 ---
 
 # Palette by OSINT Industries
 
-| **Palette**      | **Quick Overview**                                                                                                                                                 |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| URL              | [https://app.osint.industries/palette](https://app.osint.industries/palette)                                                                                       |
-| What it does     | Creates interactive intelligence graphs that visualise connections between entities such as people, accounts, crypto wallets, emails, domains, and organisations.  |
-| How to use it    | Create an investigation workspace, add or import OSINT data points, then analyse relationships through interactive graphs.                                         |
-| Cost             | Paid subscription tool.                                                                                                                                            |
-| Account required | Yes.                                                                                                                                                               |
-| Cookies          | Authentication, security, and analytics cookies.                                                                                                                   |
-| Ownership        | Owned and developed by OSINT Industries.                                                                                                                           |
-| Use in Reporting | Helps journalists and analysts visualise complex networks, explain relationships, and present OSINT findings.                                                      |
+| **Palette**      | **Quick Overview**                                                                                                                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| URL              | [https://app.osint.industries/palette](https://app.osint.industries/palette)                                                                                                                            |
+| What it does     | Creates interactive intelligence graphs that visualise connections between a large range of entities such as people, bank accounts, license plates, crypto wallets, physical characteristics and more.  |
+| How to use it    | Create an investigation workspace, add or import OSINT data points, conduct searches, then analyse relationships through interactive graphs.                                                            |
+| Cost             | Paid subscription tool.                                                                                                                                                                                 |
+| Account required | Yes.                                                                                                                                                                                                    |
+| Cookies          | Authentication, security, and analytics cookies.                                                                                                                                                        |
+| Ownership        | Owned and developed by OSINT Industries.                                                                                                                                                                |
+| Use in Reporting | Helps journalists and analysts visualise complex networks, explain relationships, and present OSINT findings.                                                                                           |
 
 ### What does Palette do?
 
-Palette allows you to transform disconnected pieces of open-source information into visual relationship maps by placing entities into a graph structure. The platform includes new search options including cryptocurrency wallets, full names, and locations, and integrates with District4labs, pipl, YC world, OI, and OI Kiel, with more to be added soon. You can also collaborate with up to 10 investigators in real time.&#x20;
+Palette allows you to transform disconnected pieces of open-source information into visual relationship maps by placing entities into a graph structure. The platform includes a wide range of new search options including cryptocurrency wallets, full names, and locations, alongside username searches via various platforms including Facebook, LinkedIn, Microsoft, GitHub, Goodreads and many more. It also integrates with District4labs, pipl, YC world, OI, and OI Kiel, with more to be added soon. You can collaborate with up to 10 investigators in real time.&#x20;
 
-**The lowdown:** It’s particularly useful when an investigation contains multiple connected entities and you need to understand the wider network around a subject.<br>
+**The lowdown:** Unlike traditional link analysis tools, Palette combines entity management, graph visualisation, and native search functionality within a single investigative workspace.<br>
 
 ### How to Use:
 
-**1. Create an investigation graph and add relevant entities such as usernames, emails, organisations, domains, or individuals.**&#x20;
+**1. Create an investigation graph and add relevant entities (from a huge range of options) such as name, DOB, domain, license plate, wallet, weight, eye colour etc. You can also create a custom entity.**
 
-<img src="../.gitbook/assets/unknown (391).png" alt="" height="261" width="602">
+<figure><img src="../.gitbook/assets/Palette new 1.png" alt=""><figcaption></figcaption></figure>
 
-**2. Connect related information points to build a visual network showing relationships between entities.**&#x20;
+**2. Connect related information points to build a visual network showing relationships between entities. Addresses bring up a visual map as in the below. You can also mark connections as certain, possible, or uncertain so confidence is visible on the graph rather than buried in your notes.**&#x20;
 
-<img src="../.gitbook/assets/unknown (392).png" alt="" height="473" width="602">
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-**3. You can mark connections as certain, possible, or uncertain so confidence is visible on the graph rather than buried in your notes. Labels and colours can be adjusted manually too giving you full control over how the case reads.**
+**3. Conduct searches on entities by right clicking then select sources.**
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<img src="../.gitbook/assets/unknown (393).png" alt="" height="791" width="602">
+**4.  Review search results and analyse the graph to identify patterns, clusters, links, and possible investigative leads.**&#x20;
 
-**4. Analyse the graph to identify patterns, clusters, links, and possible investigative leads.**&#x20;
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 You can also [watch this short trailer here. ](https://www.youtube.com/watch?v=cg70iRz47RM)
 
@@ -64,25 +66,31 @@ The platform uses authentication, security, and analytics cookies.
 
 ### Use in Reporting
 
-Palette can support OSINT reporting by:
+Palette supports intelligence reporting by helping investigators transform collected OSINT data into structured, evidence-supported intelligence outputs. Its integrated native search capability allows analysts to discover, enrich and validate information directly within the investigation workspace before incorporating findings into visual intelligence products.
 
-* Mapping connections between individuals, organisations, and online accounts.
-* Creating visual relationship diagrams to support investigative articles.
-* Explaining complex networks to readers who may not understand raw OSINT data.
-* Helping journalists identify connections between digital identities.
-* Providing an investigative workspace for documenting research processes.
+**The platform enables investigators to:**
 
-| **Capabilities**                                                                                                      | **Limitations**                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Creates interactive maps showing relationships between OSINT entities.                                                | Connections displayed in graphs still require human verification and source checking.             |
-| Helps investigators identify links between people, accounts, organisations, domains, cryptocurrency wallets and more. | A visual connection doesn’t necessarily prove a real-world relationship, coordination, or intent. |
-| Provides a structured workspace for managing large amounts of connected intelligence.                                 | Poor/inaccurate data can produce incomplete or misleading investigation maps.                     |
-| Includes features designed to support shared investigative workflows (up to 10 investigators in real time).           | Palette focuses on analysis and visualisation rather than broad data discovery.                   |
-| Allows investigators to present complex intelligence findings in a visual format suitable for reports and briefings.  | Extensive networks may require careful organisation to avoid overwhelming graphs.                 |
+* Conduct integrated searches directly within the investigation environment.
+* Enrich existing entities with newly discovered information without leaving the platform.
+* Follow investigative leads by searching from identified entities and relationships.
+* Build and refine relationship graphs using discovered intelligence.
+* Produce visual evidence including link charts, entity relationships, timelines and geographic views.
+* Capture investigative context showing how entities, identifiers and events are connected.
+* Support written intelligence reports with clear analytical visuals.
+
+| **Capabilities**                                                                                                                           | **Limitations**                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| Creates interactive maps showing relationships between OSINT entities.                                                                     | Connections displayed in graphs still require human verification and source checking.             |
+| Helps investigators identify links between people, accounts, organisations, domains, cryptocurrency wallets, license plates and many more. | A visual connection doesn’t necessarily prove a real-world relationship, coordination, or intent. |
+| Powerful native search integrated into the investigation workspace.                                                                        | Poor/inaccurate data can produce incomplete or misleading investigation maps.                     |
+| Includes features designed to support shared investigative workflows (up to 10 investigators in real time).                                | Data availability depends on supported OSINT Industries modules and search sources                |
+| Allows investigators to present complex intelligence findings in a visual format suitable for reports and briefings.                       | Extensive networks may require careful organisation to avoid overwhelming graphs.                 |
 
 ### Summary
 
-Palette is best suited for the analysis stage of the OSINT workflow, after initial collection and discovery have taken place. It’s especially useful for the transition between raw OSINT collection and investigative reporting, when you need to turn fragmented information into understandable (and ultimately, actionable) intelligence.
+Palette is best suited  for those who require both powerful search capabilities and professional link analysis in one platform without needing separate visualisation software.&#x20;
+
+In a standard OSINT workflow, it sits after you have some initial intelligence but can also support ongoing collection because of its integrated search. Data availability depends on supported OSINT Industries modules and search sources.
 
 ### Ownership
 
