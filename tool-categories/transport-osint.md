@@ -18,3 +18,5 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | Global Suppliers Online     | [Find out more](../osint-tools/global-suppliers-online.md)     |
 | Open Infrastructure Map     | [Find out more](../osint-tools/open-infrastructure-map.md)     |
 | OSINT Tools Map             | [Find out more](../osint-tools/osint-tools-map.md)             |
+| Global Fishing Watch        | [Find out more](../osint-tools/global-fishing-watch.md)        |
+| Maersk Tracking             | [Find out more](../osint-tools/maersk-tracking.md)             |

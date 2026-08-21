@@ -9,4 +9,4 @@ Blockchain Intelligence & Cryptocurrency OSINT focuses on analyzing public block
 | TheBigBrother       | [Find out more](../osint-tools/thebigbrother.md)   |
 | Block Explorer      | [Find out more](../osint-tools/block-explorer.md)  |
 | Bitcoin Whoswho     | [Find out more](../osint-tools/bitcoin-whoswho.md) |
-|                     |                                                    |
+| Bitcoin Talk        | [Find out more](../osint-tools/bitcoin-talk.md)    |

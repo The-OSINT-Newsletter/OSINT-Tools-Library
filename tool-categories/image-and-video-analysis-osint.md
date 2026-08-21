@@ -24,4 +24,5 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | Deepware                           | [Find out more](../osint-tools/deepware.md)                         |
 | Reverse Image Location (GeoSolver) | [Find out more](../osint-tools/reverse-image-location-geosolver.md) |
 | ImgOps                             | [Find out more](../osint-tools/imgops.md)                           |
+| FreeSubtitles AI                   | [Find out more](../osint-tools/freesubtitles-ai.md)                 |
 

@@ -15,3 +15,4 @@ Domain Name OSINT focuses on researching websites and their domain registrations
 | Central Ops            | [Find out more](../osint-tools/central-ops.md)            |
 | ARIN                   | [Find out more](../osint-tools/arin.md)                   |
 | Whoisology             | [Find out more](../osint-tools/whoisology.md)             |
+| Blacklist Alert        | [Find out more](../osint-tools/blacklist-alert.md)        |

@@ -57,8 +57,8 @@ Included within OSINT Industries account and subscription.
 
 ### Account Required:
 
-* [ ] Yes
-* [x] No
+* [x] Yes
+* [ ] No
 
 ### Cookies:&#x20;
 

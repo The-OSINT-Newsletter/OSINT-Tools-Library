@@ -22,3 +22,5 @@ Public Records OSINT focuses on gathering information from Government and offici
 | Business registers in EU countries                | [Find out more](../osint-tools/business-registers-in-eu-countries.md) |
 | OFAC Sanctions List Search                        | [Find out more](../osint-tools/ofac-sanctions-list-search.md)         |
 | OSINT Tools Map                                   | [Find out more](../osint-tools/osint-tools-map.md)                    |
+| Sanctions Atlas                                   | [Find out more](../osint-tools/sanctions-atlas.md)                    |
+| North Data                                        | [Find out more](../osint-tools/north-data.md)                         |

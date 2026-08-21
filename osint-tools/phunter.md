@@ -41,6 +41,8 @@ _Image above is from Phunter on GitHub._
 
 You can[ view our full guide including installation and usage at the OSINT newsletter here.](https://osintnewsletter.com/p/phunter)
 
+**Important Note:** Whilst the phone number search appears to be working on the face of it, results returned may be outdated (correct as of 6 August 2026). People search was also not working as of this date.&#x20;
+
 ### Cost
 
 * [x] Free

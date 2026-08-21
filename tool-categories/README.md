@@ -133,7 +133,11 @@ Tools for validating claims, media, and information.
 
 [View category](fact-checking-verification-osint.md)
 
+#### Public Media OSINT:
 
+Tools for analysing information from publicly accessible media sources.
+
+[View category](public-media-osint.md)
 
 
 
