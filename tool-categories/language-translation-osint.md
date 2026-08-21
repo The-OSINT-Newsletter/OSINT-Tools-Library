@@ -8,4 +8,4 @@ Language Translation OSINT helps investigators understand content in foreign lan
 | 2lingual Search  | [Find out more](../osint-tools/2lingual-search.md)  |
 | Apertium         | [Find out more](../osint-tools/apertium.md)         |
 | FreeSubtitles AI | [Find out more](../osint-tools/freesubtitles-ai.md) |
-|                  |                                                     |
+| Babylon          | [Find out more](../osint-tools/babylon.md)          |

@@ -23,3 +23,4 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | Geoconfirmed                    | [Find out more](../osint-tools/geoconfirmed.md)                    |
 | Open Infrastructure Map         | [Find out more](../osint-tools/open-infrastructure-map.md)         |
 | EarthPoint Convert              | [Find out more](../osint-tools/earthpoint-convert.md)              |
+| Shadowmap                       | [Find out more](../osint-tools/shadowmap.md)                       |

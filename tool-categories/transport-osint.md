@@ -20,3 +20,6 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | OSINT Tools Map             | [Find out more](../osint-tools/osint-tools-map.md)             |
 | Global Fishing Watch        | [Find out more](../osint-tools/global-fishing-watch.md)        |
 | Maersk Tracking             | [Find out more](../osint-tools/maersk-tracking.md)             |
+| Combat Aircraft             | [Find out more](../osint-tools/combat-aircraft.md)             |
+| Maritime Database           | [Find out more](../osint-tools/maritime-database.md)           |
+| Live Train Tracker          | [Find out more](../osint-tools/live-train-tracker.md)          |

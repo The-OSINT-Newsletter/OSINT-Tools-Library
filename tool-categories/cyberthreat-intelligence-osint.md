@@ -15,3 +15,4 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | FindTheScam                  | [Find out more](../osint-tools/findthescam.md)                  |
 | IBM-X Force Exchange         | [Find out more](../osint-tools/ibm-x-force-exchange.md)         |
 | ScamDB                       | [Find out more](../osint-tools/scamdb.md)                       |
+| BotScout                     | [Find out more](../osint-tools/botscout.md)                     |

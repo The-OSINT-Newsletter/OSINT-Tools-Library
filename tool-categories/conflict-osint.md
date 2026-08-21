@@ -12,3 +12,5 @@ Conflict OSINT focuses on discovering, verifying, and analysing information rela
 | Combined IUU Vessel List     | [Find out more](../osint-tools/combined-iuu-vessel-list.md)     |
 | LiveUAMap                    | [Find out more](../osint-tools/liveuamap.md)                    |
 | Geoconfirmed                 | [Find out more](../osint-tools/geoconfirmed.md)                 |
+| Combat Aircraft              | [Find out more](../osint-tools/combat-aircraft.md)              |
+| CAT UXO                      | [Find out more](../osint-tools/cat-uxo.md)                      |

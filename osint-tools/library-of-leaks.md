@@ -32,6 +32,8 @@ Library of leaks acts like a meta-index for leaked data collections, helping res
 \
 **2. Review results carefully by opening linked datasets or references and verify context before drawing conclusions.**
 
+**You can** [**view our full guide here.**](https://osintnewsletter.com/p/118)
+
 ### Cost
 
 * [x] Free

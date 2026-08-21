@@ -21,3 +21,4 @@ Network & Infrastructure OSINT focuses on discovering, indexing, and analyzing i
 | ARIN            | [Find out more](../osint-tools/arin.md)            |
 | SynapsInt       | [Find out more](../osint-tools/synapsint.md)       |
 | Blacklist Alert | [Find out more](../osint-tools/blacklist-alert.md) |
+| BotScout        | [Find out more](../osint-tools/botscout.md)        |

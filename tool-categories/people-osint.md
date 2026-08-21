@@ -23,3 +23,4 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | SynapsInt                | [Find out more](../osint-tools/synapsint.md)                |
 | OSINT Tools Map          | [Find out more](../osint-tools/osint-tools-map.md)          |
 | AnyWho                   | [Find out more](../osint-tools/anywho.md)                   |
+| Indica                   | [Find out more](../osint-tools/indica.md)                   |
