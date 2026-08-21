@@ -1,21 +1,22 @@
 ---
 description: >-
-  Tool Description : An OSINT platform that gathers and correlates publicly
-  available digital data such as emails, phone numbers, usernames, etc.
+  Tool Description : An all-encompassing OSINT platform that gathers and
+  correlates publicly available digital data such as emails, domains, phone
+  numbers, usernames, etc.
 ---
 
 # OSINT Industries
 
-| **OSINT Industries** | **Quick Overview**                                                                                                                                                                                                              |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| URL                  | [https://app.osint.industries/](https://app.osint.industries/)                                                                                                                                                                  |
-| What it does         | Aggregates and correlates open‑source data in real time to generate profiles and digital footprints from inputs like email addresses, phone numbers, usernames, names, and crypto wallets.                                      |
-| How to use it        | Input a selector, wait for real-time intelligence gathering, then review and export results.                                                                                                                                    |
-| Cost                 | Paid (subscription based).                                                                                                                                                                                                      |
-| Account required     | Yes for investigations and full features.                                                                                                                                                                                       |
-| Cookies              | A mixture of cookies for analytics, advertising/tracking, and security/session management.                                                                                                                                      |
-| Ownership            | Owned by [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/), [Megadose](https://www.linkedin.com/in/megadose/), [Ismail E](https://br.linkedin.com/in/ismaiyl), and [Thomas H](https://www.linkedin.com/in/thert/). |
-| Use in Reporting     | Can be used as an intelligence source for investigative reporting and verification of digital profiles and accounts.                                                                                                            |
+| **OSINT Industries** | **Quick Overview**                                                                                                                                                                                                                                  |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| URL                  | [https://app.osint.industries/](https://app.osint.industries/)                                                                                                                                                                                      |
+| What it does         | Aggregates and correlates open‑source data in real time to generate profiles and digital footprints from inputs like email addresses, phone numbers, usernames, names, domains, IPs, and crypto wallets. It also has facial recognition capability. |
+| How to use it        | Input a selector, wait for real-time intelligence gathering, then review and export results.                                                                                                                                                        |
+| Cost                 | Paid (subscription based).                                                                                                                                                                                                                          |
+| Account required     | Yes for investigations and full features.                                                                                                                                                                                                           |
+| Cookies              | A mixture of cookies for analytics, advertising/tracking, and security/session management.                                                                                                                                                          |
+| Ownership            | Owned by [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/), [Megadose](https://www.linkedin.com/in/megadose/), [Ismail E](https://br.linkedin.com/in/ismaiyl), and [Thomas H](https://www.linkedin.com/in/thert/).                     |
+| Use in Reporting     | Can be used as an intelligence source for investigative reporting and verification of digital profiles and accounts.                                                                                                                                |
 
 ### What does OSINT Industries do?
 
@@ -25,7 +26,7 @@ OSINT Industries provides a real‑time OSINT platform that scans open web sourc
 
 ### How to Use:
 
-**1. Enter an identifier (email, phone number, username, name, or wallet) and let the platform search in real time across potentially thousands of public sources.**&#x20;
+**1. Enter an identifier (email, phone number, username, name, domain, IP, or wallet) or upload an image, and let the platform search in real time across potentially thousands of public sources.**&#x20;
 
 Our example search scanned 421 sources.&#x20;
 
@@ -44,6 +45,12 @@ Breached accounts:
 And click individual account cards to reveal varying information about the user including potential first and last names, profile images, bio and location data:
 
 <figure><img src="../.gitbook/assets/unknown (16).png" alt=""><figcaption></figcaption></figure>
+
+**3. As of August 2026, there are new capabilities including domain search, IP search, and facial recognition:**
+
+<figure><img src="../.gitbook/assets/OSINT industries domain.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 
@@ -70,19 +77,20 @@ OSINT Industries uses a mix of cookies for analytics (Google Analytics), adverti
 
 Investigators can leverage OSINT Industries to:
 
-* Verify reported email or phone identity associations.
+* Verify reported email, domain, or phone identity associations.
 * Discover linked social accounts and digital traces.
 * Extract timeline and location data where available.
 * Produce structured reports with export functionality for inclusion in published work.
 
 OSINT Industries has been used by law enforcement to identify suspects and offenders, including tracking fugitive criminals and sex offenders, and supporting child exploitation investigations. View our case studies and investigations [here.](https://www.osint.industries/case-studies)
 
-| **Capabilities**                                                                               | **Limitations**                                                                              |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Searches real-time public data across a large range of sources.                                | Relies on publicly available data and is restricted by privacy settings/platform API access. |
-| Enrichment and association of multiple data points.                                            | Data quality depends on source availability.                                                 |
-| Exports results for further analysis.                                                          | <p><br></p>                                                                                  |
-| Generates account and activity links and visualisation tools (including graphs and timelines). | <p><br></p>                                                                                  |
+| **Capabilities**                                                                                                                                   | **Limitations**                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Searches real-time public data across a large range of sources.                                                                                    | Relies on publicly available data and is restricted by privacy settings/platform API access. |
+| Enrichment and association of multiple data points.                                                                                                | Data quality depends on source availability.                                                 |
+| Exports results for further analysis.                                                                                                              | <p><br></p>                                                                                  |
+| Generates account and activity links and visualisation tools (including graphs and timelines).                                                     | <p><br></p>                                                                                  |
+| A wide range of OSINT capabilities in one place including domain, IP, email, phone, name, username, crypto wallet searches and facial recognition. |                                                                                              |
 
 ### Summary
 

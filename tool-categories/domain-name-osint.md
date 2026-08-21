@@ -4,6 +4,7 @@ Domain Name OSINT focuses on researching websites and their domain registrations
 
 | Tool                   | Link                                                      |
 | ---------------------- | --------------------------------------------------------- |
+| OSINT Industries       | [Find out more](../osint-tools/osint-industries.md)       |
 | Domain Dossier         | [Find out more](../osint-tools/domain-dossier.md)         |
 | WHOIS API              | [Find out more](../osint-tools/whois-api.md)              |
 | urlscan.io             | [Find out more](../osint-tools/urlscan.md)                |
