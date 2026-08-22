@@ -135,6 +135,7 @@
   * [Corp Watch](osint-tools/corp-watch.md)
   * [Corporation Wiki](osint-tools/corporation-wiki.md)
   * [OpenCorporates](osint-tools/opencorporates.md)
+  * [Registry Lookup](osint-tools/registry-lookup.md)
   * [GrayhatWarfare](osint-tools/grayhatwarfare.md)
   * [Bitcoin Whoswho](osint-tools/bitcoin-whoswho.md)
   * [Jimpl](osint-tools/jimpl.md)
