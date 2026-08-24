@@ -5,9 +5,9 @@ description: >-
   tasks.
 ---
 
-# Indica
+# Indicia
 
-| **Indica**       | **Quick Overview**                                                                                                                             |
+| **Indicia**       | **Quick Overview**                                                                                                                             |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | URL              | [https://indicia.app](https://indicia.app)                                                                                                     |
 | What it does     | Allows investigators to search for various identifiers in a single interface, and group and classify them using AI, and cases.                 |
@@ -18,7 +18,7 @@ description: >-
 | Ownership        | Nikolaj Vanhoven, based in Virginia, USA.                                                                                                      |
 | Use in Reporting | Useful for initial intelligence gathering, identity resolution, account discovery, breach checking, network reconnaissance, and corroboration. |
 
-### What does Indica do?
+### What does Indicia do?
 
 Indicia is a comprehensive OSINT investigation platform that consolidates dozens of investigative tools, datasets, and intelligence sources into a single interface. Rather than forcing investigators to jump between separate websites and services, it provides one place to query multiple sources, allowing investigators or the built in AI agent to correlate identities.&#x20;
 
@@ -84,7 +84,7 @@ Indicia can be used to:
 
 ### Summary
 
-Indica’s strongest value is in investigative triage, discovery and lead generation as users can run an initial identifier through several relevant sources without manually visiting each service. However, important findings should subsequently be verified using the original source wherever possible.
+Indicia’s strongest value is in investigative triage, discovery and lead generation as users can run an initial identifier through several relevant sources without manually visiting each service. However, important findings should subsequently be verified using the original source wherever possible.
 
 ### Ownership
 
