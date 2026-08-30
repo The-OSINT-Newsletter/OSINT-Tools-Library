@@ -24,3 +24,4 @@ Public Records OSINT focuses on gathering information from Government and offici
 | OSINT Tools Map                                   | [Find out more](../osint-tools/osint-tools-map.md)                    |
 | Sanctions Atlas                                   | [Find out more](../osint-tools/sanctions-atlas.md)                    |
 | North Data                                        | [Find out more](../osint-tools/north-data.md)                         |
+| Reestri (Georgia and Armenia registers)          | [Find out more](../osint-tools/reestri.md)                            |
