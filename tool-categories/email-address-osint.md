@@ -17,4 +17,4 @@ Email OSINT focuses on investigating email addresses to uncover associated accou
 | Aeroleads              | [Find out more](../osint-tools/aeroleads.md)              |
 | Behind the Email       | [Find out more](../osint-tools/behind-the-email.md)       |
 | SynapsInt              | [Find out more](../osint-tools/synapsint.md)              |
-| Indica                 | [Find out more](../osint-tools/indica.md)                 |
+| Indica                 | [Find out more](../osint-tools/indicia.md)                |

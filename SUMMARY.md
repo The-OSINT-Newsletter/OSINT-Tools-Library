@@ -43,7 +43,7 @@
   * [Live Train Tracker](osint-tools/live-train-tracker.md)
   * [1stHeadlines](osint-tools/1stheadlines.md)
   * [Snopes](osint-tools/snopes.md)
-  * [Indica](osint-tools/indica.md)
+  * [Indicia](osint-tools/indicia.md)
   * [Shadowmap](osint-tools/shadowmap.md)
   * [ECO-SOLVE Global Monitoring System](osint-tools/eco-solve-global-monitoring-system.md)
   * [CAT UXO](osint-tools/cat-uxo.md)
