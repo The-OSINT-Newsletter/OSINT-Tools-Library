@@ -17,6 +17,7 @@ Public Records OSINT focuses on gathering information from Government and offici
 | Corp Watch                                        | [Find out more](../osint-tools/corp-watch.md)                         |
 | Corporation Wiki                                  | [Find out more](../osint-tools/corporation-wiki.md)                   |
 | OpenCorporates                                    | [Find out more](../osint-tools/opencorporates.md)                     |
+| Registry Lookup                                   | [Find out more](../osint-tools/registry-lookup.md)                    |
 | LittleSis                                         | [Find out more](../osint-tools/littlesis.md)                          |
 | Search Systems                                    | [Find out more](../osint-tools/search-systems.md)                     |
 | Business registers in EU countries                | [Find out more](../osint-tools/business-registers-in-eu-countries.md) |
