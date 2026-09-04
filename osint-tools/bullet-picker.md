@@ -8,15 +8,15 @@ description: >-
 # Bulletpicker
 
 | **Bulletpicker** | **Quick Overview**                                                                                                                                              |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| URL              | [https://www.bulletpicker.com/index.html](https://www.bulletpicker.com/index.html)                                                                              |
-| What it does     | Helps users identify and compare ammunition types using images, specs, and cartridge data                                                                       |
-| How to use it    | Open the website, browse or search cartridge listings, then compare dimensions, markings, and references.                                                       |
-| Cost             | Free.                                                                                                                                                           |
-| Account required | No.                                                                                                                                                             |
-| Cookies          | Mostly small functional website cookies, plus one security/verification cookie.                                                                                 |
-| Ownership        | Independent ammunition reference site owned and operated by Ted Carlson (recently retired project manager for the Department of Defense) based in Alabama, USA. |
-| Use in Reporting | Useful for analysing weapon evidence in media, conflict zones, or forensic contexts.                                                                            |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| URL               | [https://www.bulletpicker.com/index.html](https://www.bulletpicker.com/index.html)                                                                              |
+| What it does      | Helps users identify and compare ammunition types using images, specs, and cartridge data                                                                       |
+| How to use it     | Open the website, browse or search cartridge listings, then compare dimensions, markings, and references.                                                       |
+| Cost              | Free.                                                                                                                                                           |
+| Account required  | No.                                                                                                                                                             |
+| Cookies           | Mostly small functional website cookies, plus one security/verification cookie.                                                                                 |
+| Ownership         | Independent ammunition reference site owned and operated by Ted Carlson (recently retired project manager for the Department of Defense) based in Alabama, USA. |
+| Use in Reporting  | Useful for analysing weapon evidence in media, conflict zones, or forensic contexts.                                                                            |
 
 ### What does Bulletpicker do?
 
@@ -80,7 +80,7 @@ Bulletpicker is a lightweight but useful OSINT reference for ammunition identifi
 
 ### Ownership
 
-Owned and operated by Ted Carlson, a technical resource developer, former explosive ordnance researcher and retired project manager for the Department of Defense.
+Owned and operated by Ted Carlson, a technical resource developer, former explosive ordnance disposal technician and retired project manager for the Department of Defense.
 
 ### Ethical Considerations
 
