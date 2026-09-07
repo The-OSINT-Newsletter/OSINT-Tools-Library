@@ -23,3 +23,4 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | DuckDuckGo                    | [Find out more](../osint-tools/duckduckgo.md)                    |
 | Palette by OSINT Industries   | [Find out more](../osint-tools/palette.md)                       |
 | EarthPoint Convert            | [Find out more](../osint-tools/earthpoint-convert.md)            |
+| Excite Web Search             | [Find out more](../osint-tools/excite-web-search.md)             |

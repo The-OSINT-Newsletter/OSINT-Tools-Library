@@ -23,3 +23,5 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | Combat Aircraft             | [Find out more](../osint-tools/combat-aircraft.md)             |
 | Maritime Database           | [Find out more](../osint-tools/maritime-database.md)           |
 | Live Train Tracker          | [Find out more](../osint-tools/live-train-tracker.md)          |
+| Track-Trace                 | [Find out more](../osint-tools/track-trace.md)                 |
+| OpenRailwayMap              | [Find out more](../osint-tools/openrailwaymap.md)              |

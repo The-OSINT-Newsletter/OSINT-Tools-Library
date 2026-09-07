@@ -24,3 +24,7 @@ Public Records OSINT focuses on gathering information from Government and offici
 | OSINT Tools Map                                   | [Find out more](../osint-tools/osint-tools-map.md)                    |
 | Sanctions Atlas                                   | [Find out more](../osint-tools/sanctions-atlas.md)                    |
 | North Data                                        | [Find out more](../osint-tools/north-data.md)                         |
+| dilisense                                         | [Find out more](../osint-tools/dilisense.md)                          |
+| The World Bank Open Data Catalog                  | [Find out more](../osint-tools/the-world-bank-open-data-catalog.md)   |
+| UN Comtrade Database                              | [Find out more](../osint-tools/un-comtrade-database.md)               |
+| BIS Data Portal                                   | [Find out more](../osint-tools/bis-data-portal.md)                    |

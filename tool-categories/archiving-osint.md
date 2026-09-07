@@ -10,3 +10,5 @@ Archiving OSINT focuses on saving and accessing past versions of websites, socia
 | Archivarix Tube Search | [Find out more](../osint-tools/archivarix-tube-search.md) |
 | GetProofAnchor         | [Find out more](../osint-tools/getproofanchor.md)         |
 | Arctic Shift           | [Find out more](../osint-tools/arctic-shift.md)           |
+| Follow That Page       | [Find out more](../osint-tools/follow-that-page.md)       |
+| ProofSnap              | [Find out more](../osint-tools/proofsnap.md)              |

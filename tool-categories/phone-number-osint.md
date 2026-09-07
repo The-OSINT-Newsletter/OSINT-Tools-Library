@@ -15,3 +15,5 @@ Phone number OSINT focuses on investigating telephone numbers to uncover associa
 | Aeroleads                     | [Find out more](../osint-tools/aeroleads.md)                     |
 | SynapsInt                     | [Find out more](../osint-tools/synapsint.md)                     |
 | Indica                        | [Find out more](../osint-tools/indicia.md)                       |
+| Phone Validator               | [Find out more](../osint-tools/phone-validator.md)               |
+| Revealer.US Username Lookup   | [Find out more](../osint-tools/revealer.us-username-lookup.md)   |
