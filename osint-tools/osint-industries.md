@@ -15,7 +15,7 @@ description: >-
 | Cost                 | Paid (subscription based).                                                                                                                                                                                                                          |
 | Account required     | Yes for investigations and full features.                                                                                                                                                                                                           |
 | Cookies              | A mixture of cookies for analytics, advertising/tracking, and security/session management.                                                                                                                                                          |
-| Ownership            | Owned by [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/), [Megadose](https://www.linkedin.com/in/megadose/), [Ismail E](https://br.linkedin.com/in/ismaiyl), and [Thomas H](https://www.linkedin.com/in/thert/).                     |
+| Ownership            | Owned by [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/), [Ismail E](https://br.linkedin.com/in/ismaiyl), and [Thomas H](https://www.linkedin.com/in/thert/).                                                                        |
 | Use in Reporting     | Can be used as an intelligence source for investigative reporting and verification of digital profiles and accounts.                                                                                                                                |
 
 ### What does OSINT Industries do?
@@ -98,7 +98,7 @@ OSINT Industries performs real‑time searches on publicly available digital dat
 
 ### Ownership
 
-OSINT Industries is led by British CEO [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/), President [Megadose](https://www.linkedin.com/in/megadose/), CTO [Ismail E](https://br.linkedin.com/in/ismaiyl), and CRO [Thomas H](https://www.linkedin.com/in/thert/).
+OSINT Industries is led by British CEO [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/), CTO [Ismail E](https://br.linkedin.com/in/ismaiyl), and CRO [Thomas H](https://www.linkedin.com/in/thert/).
 
 ### Ethical Considerations
 
