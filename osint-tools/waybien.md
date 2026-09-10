@@ -31,7 +31,7 @@ Waybien is an emerging, powerful OSINT search engine for messaging and social me
 
 **2. Filter by platform (Telegram, Facebook, Discord, or WhatsApp to narrow results).**
 
-<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Explore results and access groups by using publicly shared join links to enter groups where available.**
 

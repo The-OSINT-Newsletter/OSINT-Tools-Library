@@ -12,3 +12,7 @@ Archiving OSINT focuses on saving and accessing past versions of websites, socia
 | Arctic Shift           | [Find out more](../osint-tools/arctic-shift.md)           |
 | Follow That Page       | [Find out more](../osint-tools/follow-that-page.md)       |
 | ProofSnap              | [Find out more](../osint-tools/proofsnap.md)              |
+| 4shared                | [Find out more](../osint-tools/4shared.md)                |
+| Free Full PDF          | [Find out more](../osint-tools/free-full-pdf.md)          |
+| 4plebs                 | [Find out more](../osint-tools/4plebs.md)                 |
+| SearchShared           | [Find out more](../osint-tools/searchshared.md)           |

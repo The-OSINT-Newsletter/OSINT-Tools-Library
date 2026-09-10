@@ -17,3 +17,6 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | ScamDB                       | [Find out more](../osint-tools/scamdb.md)                       |
 | BotScout                     | [Find out more](../osint-tools/botscout.md)                     |
 | ScanMalware                  | [Find out more](../osint-tools/scanmalware.md)                  |
+| Malpedia                     | [Find out more](../osint-tools/malpedia.md)                     |
+| VirusTotal                   | [Find out more](../osint-tools/virustotal.md)                   |
+| Pulsedive                    | [Find out more](../osint-tools/pulsedive.md)                    |

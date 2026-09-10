@@ -29,7 +29,7 @@ It’s especially valuable in OSINT for image verification, geolocation, and con
 
 **1. Upload an image to the platform.**
 
-<figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Let the AI process visual features (terrain, buildings, colours, patterns) and review suggested locations and confidence levels.**&#x20;
 

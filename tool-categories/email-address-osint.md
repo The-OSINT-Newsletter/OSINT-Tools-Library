@@ -19,3 +19,4 @@ Email OSINT focuses on investigating email addresses to uncover associated accou
 | SynapsInt                   | [Find out more](../osint-tools/synapsint.md)                   |
 | Indica                      | [Find out more](../osint-tools/indicia.md)                     |
 | Revealer.US Username Lookup | [Find out more](../osint-tools/revealer.us-username-lookup.md) |
+| Email Checker               | [Find out more](../osint-tools/email-checker.md)               |

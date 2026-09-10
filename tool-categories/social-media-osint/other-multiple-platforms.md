@@ -13,4 +13,6 @@
 | F5Bot                  | [Find out more](../../osint-tools/f5bot.md)                  |
 | Graph Tips             | [Find out more](../../osint-tools/graph-tips.md)             |
 | BoardReader            | [Find out more](../../osint-tools/boardreader.md)            |
+| 4plebs                 | [Find out more](../../osint-tools/4plebs.md)                 |
+| Buzzglobe              | [Find out more](../../osint-tools/buzzglobe.md)              |
 

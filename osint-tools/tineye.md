@@ -33,7 +33,7 @@ TinEye searches the web using image recognition instead of keywords. It identifi
 
 **3. Use filters (oldest, newest, best match) to trace origin or spot edits. E.g. we searched by ‘oldest’ here:**
 
-<figure><img src="../.gitbook/assets/unknown (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

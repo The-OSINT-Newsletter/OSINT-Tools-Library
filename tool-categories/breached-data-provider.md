@@ -18,3 +18,5 @@ Breached data provider OSINT focuses on accessing and analysing datasets obtaine
 | LeakData.io                 | [Find out more](../osint-tools/leakdata.io.md)                 |
 | FreewareWeb FTP Search      | [Find out more](../osint-tools/freewareweb-ftp-search.md)      |
 | Revealer.US Username Lookup | [Find out more](../osint-tools/revealer.us-username-lookup.md) |
+| 4shared                     | [Find out more](../osint-tools/4shared.md)                     |
+| SearchShared                | [Find out more](../osint-tools/searchshared.md)                |

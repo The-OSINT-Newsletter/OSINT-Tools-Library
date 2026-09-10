@@ -34,13 +34,13 @@ It’s particularly useful for analysts who want faster pattern recognition, lin
 
 **2. Enter your investigation target (e.g. username, email, domain) and run the search.**
 
-<figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
 
 **3. Review results, connections, and visual outputs. Export or document findings, verifying key points manually.**
 
 For deeper research costing 5 credits, you can pull up much more information as below:
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cost
 

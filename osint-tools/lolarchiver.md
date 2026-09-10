@@ -36,11 +36,11 @@ You’ll need to subscribe to use this.
 
 **2. Review returned matches (accounts, chats, activity logs).**
 
-<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Pivot using discovered usernames or links to expand your investigation. E.g. The Twitter tool allows you to retrieve usernames, display names, bio, website and location history.**
 
-<figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **As another example you can enter a keyword into the TikTok Tool to reveal videos using that keyword.**
 

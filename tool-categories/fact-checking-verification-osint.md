@@ -8,4 +8,5 @@ Fact-checking & Verification OSINT focuses on validating claims, media, and info
 | Politifact              | [Find out more](../osint-tools/politifact.md)              |
 | Fact Check              | [Find out more](../osint-tools/fact-check.md)              |
 | Snopes                  | [Find out more](../osint-tools/snopes.md)                  |
+| StopFake Tools          | [Find out more](../osint-tools/stopfake-tools.md)          |
 

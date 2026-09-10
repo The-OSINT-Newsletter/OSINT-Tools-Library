@@ -33,7 +33,7 @@ See here: [https://github.com/overtake/TelegramSwift/blob/579cebbf0c01fd41b712ef
 
 1. Head to [https://spoiler.soxoj.com/](https://spoiler.soxoj.com/) to view the screen below.&#x20;
 
-![](<../.gitbook/assets/unknown (2) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/unknown (2) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 &#x20;                                                            &#x20;
 

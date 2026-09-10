@@ -33,7 +33,7 @@ BirdHunt is a go-to tool for location-based Twitter analysis. It cuts through th
 
 **3. Twitter/X will then open a new tab with your results.**
 
-<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can [learn more in the OSINT Newsletter here. ](https://osintnewsletter.com/p/13)
 
