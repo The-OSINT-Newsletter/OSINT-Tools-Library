@@ -10,3 +10,4 @@ Fact-checking & Verification OSINT focuses on validating claims, media, and info
 | Snopes                  | [Find out more](../osint-tools/snopes.md)                  |
 | StopFake Tools          | [Find out more](../osint-tools/stopfake-tools.md)          |
 
+| China USCI Checker | [Find out more](../osint-tools/china-usci-checker.md) |
