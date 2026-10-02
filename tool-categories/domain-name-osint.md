@@ -15,6 +15,7 @@ Domain Name OSINT focuses on researching websites and their domain registrations
 | DNS Dumpster           | [Find out more](../osint-tools/dns-dumpster.md)           |
 | Central Ops            | [Find out more](../osint-tools/central-ops.md)            |
 | ARIN                   | [Find out more](../osint-tools/arin.md)                   |
+| Whoami.xj1.fr          | [Find out more](../osint-tools/whoami-xj1-fr.md)          |
 | Whoisology             | [Find out more](../osint-tools/whoisology.md)             |
 | Blacklist Alert        | [Find out more](../osint-tools/blacklist-alert.md)        |
 | Indicia                | [Find out more](../osint-tools/indicia.md)                |

@@ -336,6 +336,7 @@
   * [Arkham Intel](osint-tools/arkham.md)
   * [Censys](osint-tools/censys.md)
   * [Shodan](osint-tools/shodan.md)
+  * [Whoami.xj1.fr](osint-tools/whoami-xj1-fr.md)
   * [Dune](osint-tools/dune.md)
   * [Filmot](osint-tools/filmot.md)
 * [Submission Guide](submission-guide.md)
