@@ -363,4 +363,5 @@
   * [Shodan](osint-tools/shodan.md)
   * [Dune](osint-tools/dune.md)
   * [Filmot](osint-tools/filmot.md)
+  * [China USCI Checker](osint-tools/china-usci-checker.md)
 * [Submission Guide](submission-guide.md)
