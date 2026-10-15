@@ -101,6 +101,8 @@ According to Tracxn, Deepware is an unfunded company based in Sarajevo (Bosnia A
 
 ### Related Tools:
 
+* [Sealed Rose](sealed-rose.md)
+* [C2PA Lab](c2pa-lab.md)
 * Reality Defender
 * Hive Moderation AI Detector
 * TrueMedia.org
