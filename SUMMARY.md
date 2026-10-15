@@ -363,4 +363,5 @@
   * [Shodan](osint-tools/shodan.md)
   * [Dune](osint-tools/dune.md)
   * [Filmot](osint-tools/filmot.md)
+  * [Sealed Rose](osint-tools/sealed-rose.md)
 * [Submission Guide](submission-guide.md)
