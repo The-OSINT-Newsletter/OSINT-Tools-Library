@@ -1,8 +1,8 @@
 ---
 description: >-
-  Tool Description : An AI-powered daily intelligence brief on the
-  Russia-Ukraine war, synthesized from 200+ Ukrainian and Russian-language open
-  sources with source attribution and confidence levels.
+  Tool Description : A daily brief on the Russia-Ukraine war from 200+
+  Ukrainian, Russian and Western open sources. Every item names and links its
+  source. The open part of today's brief is free to read without an account.
 ---
 
 # OSNT.IN
@@ -10,17 +10,17 @@ description: >-
 | **OSNT.IN**      | **Quick Overview**                                                                                                                                                                                                                                                          |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | URL              | [https://www.osnt.in/](https://www.osnt.in/)                                                                                                                                                                                                                                |
-| What it does     | Publishes a daily AI-generated intelligence brief on the Russia-Ukraine war from 200+ open sources, including Ukrainian and Russian-language Telegram channels and RSS feeds, with source attribution, confidence levels, narrative tracking, and day-over-day comparison.  |
-| How to use it    | Read the daily brief, track narrative shifts, and compare what changed between days. Email and Telegram delivery available.                                                                                                                                                 |
+| What it does     | Publishes a daily AI-generated brief on the Russia-Ukraine war from 200+ open sources, including Ukrainian and Russian-language Telegram channels and RSS feeds. Every item names and links its source; narrative tracking and day-over-day comparison are in Pro.  |
+| How to use it    | Read the open part of today's brief without an account; track narrative shifts and compare what changed between days in Pro. Email and Telegram delivery available.                                                                                                                                                 |
 | Cost             | Partially Free.                                                                                                                                                                                                                                                             |
-| Account required | Yes, for the app (Google sign-in). No for the public Telegram channel and blog.                                                                                                                                                                                             |
-| Cookies          | Strictly necessary cookies only (authentication and session). Not tracking, advertising, or analytics cookies.                                                                                                                                                              |
+| Account required | No for the open part of today's brief, the public Telegram channel and blog. Yes for the full app (Google sign-in).                                                                                                                                                                                             |
+| Cookies          | App: strictly necessary cookies only (authentication and session). Website: analytics cookies only after consent. No advertising cookies.                                                                                                                                                              |
 | Ownership        | Built by Mike Hafin and team. Independent product built in Ukraine, operated from Barcelona.                                                                                                                                                                                |
 | Use in Reporting | Daily situational awareness on the Russia-Ukraine war; surfaces Ukrainian and Russian-language source material for investigators who do not read those languages.                                                                                                           |
 
 ### What does OSNT.IN do?
 
-OSNT.IN monitors 200+ open sources on the Russia-Ukraine war, including Ukrainian and Russian-language Telegram channels that are inaccessible to investigators who do not read those languages, and synthesizes them into a single daily intelligence brief.
+OSNT.IN monitors 200+ open sources on the Russia-Ukraine war, including Ukrainian and Russian-language Telegram channels that are inaccessible to investigators who do not read those languages, and synthesizes them into a single daily brief.
 
 Each brief contains an executive summary, key events with per-claim source attribution, narrative shift tracking (how framings propagate across the information space), and signals. Contested claims are labeled as claims and attributed to their sources. A Compare view shows what changed between any two days.
 
@@ -28,7 +28,7 @@ Each brief contains an executive summary, key events with per-claim source attri
 
 ### How to Use:
 
-**1. Open the daily brief. Each section (executive summary, events, narrative shifts, signals) carries source attribution and confidence levels.**
+**1. Open the daily brief. Every item names and links its source.**
 
 <img src="../.gitbook/assets/unknown (249).png" alt="" height="387" width="602">
 
@@ -46,7 +46,7 @@ Each brief contains an executive summary, key events with per-claim source attri
 * [x] Partially Free
 * [ ] Paid
 
-7-day full-access trial without payment details; paid subscription after. Public layer (blog, Telegram channel) is free.
+The open part of today's brief, the blog and the Telegram channel are free, no account needed. Pro ($29/month) adds the full brief, the archive, narrative tracking and day-over-day comparison, with a 7-day free trial, no card required.
 
 ## Data Processing
 
@@ -55,11 +55,11 @@ Each brief contains an executive summary, key events with per-claim source attri
 * [x] Yes
 * [x] No
 
-Yes, for the app (Google sign-in). No account needed for the public Telegram channel and blog.
+No account needed for the open part of today's brief, the public Telegram channel and blog. Yes for the full app (Google sign-in).
 
 ### Cookies:&#x20;
 
-The site uses strictly necessary cookies only, for authentication and session management. No tracking, advertising, or third-party analytics cookies are used.&#x20;
+The app (app.osnt.in) uses strictly necessary cookies only, for authentication and session management. The website (osnt.in) loads analytics (Google Analytics 4, Microsoft Clarity) only after consent through its cookie banner. No advertising cookies are used.&#x20;
 
 **Note:** Be mindful of the auth-token cookies which effectively act like a “login key”.<br>
 
@@ -75,7 +75,7 @@ OSNT.IN is useful for:
 | **Capabilities**                                                        | **Limitations**                                                                                               |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | Synthesizes 200+ UA/RU/International sources into one attributed brief. | Focused exclusively on Russia-Ukraine conflict.                                                               |
-| Per-claim source attribution and confidence levels.                     | Analysis is AI generated; every brief carries a disclaimer to verify critical claims against primary sources. |
+| Per-claim source attribution: every item names and links its source.   | Analysis is AI generated; every brief carries a disclaimer to verify critical claims against primary sources. |
 | Narrative tracking and day-over-day comparison.                         | Full daily brief and archive require a subscription after the 7-day trial.                                    |
 | Free public layer via blog and Telegram channel.                        | Coverage is bounded by the monitored source pool; events outside it may be missed or delayed.                 |
 
@@ -91,8 +91,8 @@ Built by [Mike Hafin ](https://www.linkedin.com/in/mikehafin/)and team. Independ
 
 * All analysis is AI-generated from open sources; every brief carries a disclaimer to verify critical claims.
 * Contested claims are attributed to their sources, not stated as fact.
-* Handle casualty figures and civilian-harm reporting with care; they are labeled with sourcing and confidence levels.
-* OSNT.IN is an independent product with an openly documented editorial methodology: events are reported regardless of side, claims from all sides are attributed to their sources, confidence levels are applied, the distinction between aggressor and defender follows international law, and no false moral equivalence is drawn between military aggression and self-defense.
+* Handle casualty figures and civilian-harm reporting with care; each figure is attributed to its source.
+* OSNT.IN is an independent product with an openly documented editorial methodology: events are reported regardless of side, claims from all sides are attributed to their sources, the distinction between aggressor and defender follows international law, and no false moral equivalence is drawn between military aggression and self-defense.
 
 ### Related Tools:
 
