@@ -36,6 +36,7 @@
   * [Public Media OSINT](tool-categories/public-media-osint.md)
 * [OSINT Tools](osint-tools/README.md)
   * [Tool Template](osint-tools/tool-template.md)
+  * [AnalyzeInsta Instagram Profile Analyzer](osint-tools/analyzeinsta-instagram-profile-analyzer.md)
   * [Reverse Image Search Anywhere](osint-tools/reverse-image-search-anywhere.md)
   * [Twitee](osint-tools/twitee.md)
   * [ScreenshotChecker](osint-tools/screenshotchecker.md)
