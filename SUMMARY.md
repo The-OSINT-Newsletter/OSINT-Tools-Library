@@ -313,6 +313,7 @@
   * [Facebook Video Downloader](osint-tools/facebook-video-downloader.md)
   * [Waybien](osint-tools/waybien.md)
   * [Twitter Viewer](osint-tools/twitter-viewer.md)
+  * [TweetLens](osint-tools/tweetlens.md)
   * [Crowd Counter](osint-tools/crowd-counter.md)
   * [Sotwe](osint-tools/sotwe.md)
   * [Bluesky Follow Finder](osint-tools/bluesky-follow-finder.md)
