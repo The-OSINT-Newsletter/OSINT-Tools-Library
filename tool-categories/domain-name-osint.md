@@ -6,6 +6,7 @@ Domain Name OSINT focuses on researching websites and their domain registrations
 | ---------------------- | --------------------------------------------------------- |
 | OSINT Industries       | [Find out more](../osint-tools/osint-industries.md)       |
 | Domain Dossier         | [Find out more](../osint-tools/domain-dossier.md)         |
+| Expose                 | [Find out more](../osint-tools/expose.md)                 |
 | WHOIS API              | [Find out more](../osint-tools/whois-api.md)              |
 | urlscan.io             | [Find out more](../osint-tools/urlscan.md)                |
 | Have I Been Squatted?  | [Find out more](../osint-tools/have-i-been-squatted.md)   |

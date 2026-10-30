@@ -36,6 +36,7 @@
   * [Public Media OSINT](tool-categories/public-media-osint.md)
 * [OSINT Tools](osint-tools/README.md)
   * [Tool Template](osint-tools/tool-template.md)
+  * [Expose](osint-tools/expose.md)
   * [EnvTrace](osint-tools/envtrace.md)
   * [Lukol Search Engine](osint-tools/lukol-search-engine.md)
   * [Blacklight](osint-tools/blacklight.md)
