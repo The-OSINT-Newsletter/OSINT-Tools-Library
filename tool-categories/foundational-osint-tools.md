@@ -29,3 +29,4 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | Lukol Search Engine           | [Find out more](../osint-tools/lukol-search-engine.md)           |
 | Functions Online              | [Find out more](../osint-tools/functions-online.md)              |
 | Fake Name Generator           | [Find out more](../osint-tools/fake-name-generator.md)           |
+| Recon (Lyon & Fiurex) | [Find out more](../osint-tools/recon-free-osint.md) |
