@@ -35,6 +35,7 @@
   * [Fact-checking/verification OSINT](tool-categories/fact-checking-verification-osint.md)
   * [Public Media OSINT](tool-categories/public-media-osint.md)
 * [OSINT Tools](osint-tools/README.md)
+  * [Recon (Lyon & Fiurex)](osint-tools/recon-free-osint.md)
   * [Tool Template](osint-tools/tool-template.md)
   * [EnvTrace](osint-tools/envtrace.md)
   * [Lukol Search Engine](osint-tools/lukol-search-engine.md)
