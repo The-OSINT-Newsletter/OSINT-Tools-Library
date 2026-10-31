@@ -11,7 +11,7 @@ description: >-
 | URL | [https://free-osint.org/](https://free-osint.org/) |
 | What it does | Brings people/company research, fraud-control review and passive cyber observations into one browser workspace. |
 | How to use it | Select a country or International/Unknown mode, enter known identifiers and review available source-linked observations. Use CyberSec OSINT for domains, IPs, optional ports and full URLs. |
-| Cost | Freemium. Free access is subject to quotas and availability windows. Paid plans unlock additional capabilities; check current pricing on the site. |
+| Cost | Freemium. Basic free searches remain available throughout the month, subject to anti-abuse controls. Optional enrichment has separate allowances and availability windows. Paid plans unlock additional capabilities; check current pricing on the site. |
 | Account required | Basic public access is available without an account; paid access and account-backed saved work require sign-in. Individual features have additional eligibility requirements. |
 | Cookies | Authentication, session/security and consent-related storage are used; consult the current Privacy Notice before entering personal data. |
 | Operator | REDGOLD HOLDING S.A. DE C.V., under Recon / Lyon & Fiurex branding, as identified by the operator and legal notices. |
@@ -34,7 +34,7 @@ Recon coordinates research from known subject identifiers rather than replacing 
 * [x] Partially free
 * [ ] Paid only
 
-Free results have limits and availability windows. Paid capabilities are not represented as free. See the site's current plans rather than relying on a fixed price in this entry.
+Basic free people/company searches remain available all month. Optional public-footprint and social-activity enrichment has separate allowances and availability windows; anti-abuse controls still apply. Paid capabilities are not represented as free. See the site's current plans rather than relying on a fixed price in this entry.
 
 ### Data processing and limitations
 
