@@ -326,6 +326,8 @@
   * [Vehicle AI](osint-tools/vehicle-ai.md)
   * [TinEye](osint-tools/tineye.md)
   * [Surveillance under Surveillance](osint-tools/surveillance-under-surveillance.md)
+  * [Flock Locations](osint-tools/flock-locations.md)
+
   * [Meawfy](osint-tools/meawfy.md)
   * [Subreddits.org](osint-tools/subreddits.org.md)
   * [Deaddrop](osint-tools/deaddrop.md)
