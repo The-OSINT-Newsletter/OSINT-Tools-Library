@@ -29,3 +29,5 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | Nuwber                      | [Find out more](../osint-tools/nuwber.md)                      |
 | Radaris                     | [Find out more](/broken/pages/PaSati4lUfNqzWl0UTXs)            |
 | Buzzglobe                   | [Find out more](../osint-tools/buzzglobe.md)                   |
+| Recordwell                  | [Find out more](../osint-tools/recordwell.md)                  |
+

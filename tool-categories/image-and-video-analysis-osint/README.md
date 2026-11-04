@@ -2,34 +2,37 @@
 
 Image & Video Analysis OSINT focuses on examining photos and videos to uncover details, verify authenticity, and extract information. These tools help investigators identify locations, objects, people, and edits, and analyze visual content for clues in investigations.
 
-| Tool                               | Link                                                                   |
-| ---------------------------------- | ---------------------------------------------------------------------- |
-| OSINT Industries                   | [Find out more](../../osint-tools/osint-industries.md)                 |
-| Amazon Rekognition                 | [Find out more](../../osint-tools/amazon-rekognition.md)               |
-| Autostitch                         | [Find out more](../../osint-tools/autostitch.md)                       |
-| Face Comparison by Toolpie         | [Find out more](../../osint-tools/face-comparison-by-toolpie.md)       |
-| Forensically                       | [Find out more](../../osint-tools/forensically.md)                     |
-| Google Lens                        | [Find out more](../../osint-tools/google-lens.md)                      |
-| Filmot                             | [Find out more](../../osint-tools/filmot.md)                           |
-| Profile Image Intel                | [Find out more](../../osint-tools/profile-image-intel.md)              |
-| Crowd Counter                      | [Find out more](../../osint-tools/crowd-counter.md)                    |
-| TinEye                             | [Find out more](../../osint-tools/tineye.md)                           |
-| Pic Detective                      | [Find out more](../../osint-tools/pic-detective.md)                    |
-| PimEyes                            | [Find out more](../../osint-tools/pimeyes.md)                          |
-| Image Whisperer                    | [Find out more](../../osint-tools/image-whisperer.md)                  |
-| Hippie OSINT Toolkit               | [Find out more](../../osint-tools/hippie-osint-toolkit.md)             |
-| Human or AI                        | [Find out more](../../osint-tools/human-or-ai.md)                      |
-| MW Metadata                        | [Find out more](../../osint-tools/mw-metadata.md)                      |
-| Jimpl                              | [Find out more](../../osint-tools/jimpl.md)                            |
-| Oceanir                            | [Find out more](../../osint-tools/oceanir.md)                          |
-| Deepware                           | [Find out more](../../osint-tools/deepware.md)                         |
-| Reverse Image Location (GeoSolver) | [Find out more](../../osint-tools/reverse-image-location-geosolver.md) |
-| ImgOps                             | [Find out more](../../osint-tools/imgops.md)                           |
-| C2PA Lab                           | [Find out more](../../osint-tools/c2pa-lab.md)                         |
-| Metadata Remover                   | [Find out more](../../osint-tools/metadata-remover.md)                 |
-| Channel Timeline                   | [Find out more](../../osint-tools/channel-timeline.md)                 |
-| Reverse Image Search Anywhere      | [Find out more](../../osint-tools/reverse-image-search-anywhere.md)    |
-| ScreenshotChecker                  | [Find out more](../../osint-tools/screenshotchecker.md)                |
-| MapChecking                        | [Find out more](../../osint-tools/mapchecking.md)                      |
-| HeyUtils EXIF Viewer and Remover   | [Find out more](../../osint-tools/heyutils-exif-viewer-and-remover.md) |
+| Tool                                | Link                                                                      |
+| ----------------------------------- | ------------------------------------------------------------------------- |
+| OSINT Industries                    | [Find out more](../../osint-tools/osint-industries.md)                    |
+| Amazon Rekognition                  | [Find out more](../../osint-tools/amazon-rekognition.md)                  |
+| Autostitch                          | [Find out more](../../osint-tools/autostitch.md)                          |
+| Face Comparison by Toolpie          | [Find out more](../../osint-tools/face-comparison-by-toolpie.md)          |
+| Forensically                        | [Find out more](../../osint-tools/forensically.md)                        |
+| Google Lens                         | [Find out more](../../osint-tools/google-lens.md)                         |
+| Filmot                              | [Find out more](../../osint-tools/filmot.md)                              |
+| Profile Image Intel                 | [Find out more](../../osint-tools/profile-image-intel.md)                 |
+| Crowd Counter                       | [Find out more](../../osint-tools/crowd-counter.md)                       |
+| TinEye                              | [Find out more](../../osint-tools/tineye.md)                              |
+| Pic Detective                       | [Find out more](../../osint-tools/pic-detective.md)                       |
+| PimEyes                             | [Find out more](../../osint-tools/pimeyes.md)                             |
+| Image Whisperer                     | [Find out more](../../osint-tools/image-whisperer.md)                     |
+| Hippie OSINT Toolkit                | [Find out more](../../osint-tools/hippie-osint-toolkit.md)                |
+| Human or AI                         | [Find out more](../../osint-tools/human-or-ai.md)                         |
+| MW Metadata                         | [Find out more](../../osint-tools/mw-metadata.md)                         |
+| Jimpl                               | [Find out more](../../osint-tools/jimpl.md)                               |
+| Oceanir                             | [Find out more](../../osint-tools/oceanir.md)                             |
+| Deepware                            | [Find out more](../../osint-tools/deepware.md)                            |
+| Reverse Image Location (GeoSolver)  | [Find out more](../../osint-tools/reverse-image-location-geosolver.md)    |
+| ImgOps                              | [Find out more](../../osint-tools/imgops.md)                              |
+| C2PA Lab                            | [Find out more](../../osint-tools/c2pa-lab.md)                            |
+| Metadata Remover                    | [Find out more](../../osint-tools/metadata-remover.md)                    |
+| Channel Timeline                    | [Find out more](../../osint-tools/channel-timeline.md)                    |
+| Reverse Image Search Anywhere       | [Find out more](../../osint-tools/reverse-image-search-anywhere.md)       |
+| ScreenshotChecker                   | [Find out more](../../osint-tools/screenshotchecker.md)                   |
+| MapChecking                         | [Find out more](../../osint-tools/mapchecking.md)                         |
+| HeyUtils EXIF Viewer and Remover    | [Find out more](../../osint-tools/heyutils-exif-viewer-and-remover.md)    |
+| ZIPZAX Image Metadata Viewer        | [Find out more](../../osint-tools/zipzax-image-metadata-viewer.md)        |
+| AI Compare Ninja Image Origin Check | [Find out more](../../osint-tools/ai-compare-ninja-image-origin-check.md) |
+| GeoInfer                            | [Find out more](../../osint-tools/geoinfer.md)                            |
 

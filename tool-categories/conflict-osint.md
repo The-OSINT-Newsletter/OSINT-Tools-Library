@@ -21,3 +21,5 @@ Conflict OSINT focuses on discovering, verifying, and analysing information rela
 | Vigil Consilium                 | [Find out more](../osint-tools/vigil-consilium.md)                 |
 | Conflict Tracker                | [Find out more](../osint-tools/conflict-tracker.md)                |
 | WorldEye                        | [Find out more](../osint-tools/worldeye.md)                        |
+| CrisisWatch                     | [Find out more](../osint-tools/crisiswatch.md)                     |
+| UCDP                            | [Find out more](../osint-tools/ucdp.md)                            |

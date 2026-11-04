@@ -12,4 +12,6 @@ Public Media OSINT focuses on collecting, monitoring, and analysing information 
 | Lanes                 | [Find out more](../osint-tools/lanes.md)                 |
 | Vigil Consilium       | [Find out more](../osint-tools/vigil-consilium.md)       |
 | WorldEye              | [Find out more](../osint-tools/worldeye.md)              |
+| Radar                 | [Find out more](../osint-tools/radar.md)                 |
+| AllSides              | [Find out more](../osint-tools/allsides.md)              |
 

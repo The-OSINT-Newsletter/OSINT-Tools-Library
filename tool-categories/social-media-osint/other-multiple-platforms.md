@@ -15,4 +15,6 @@
 | BoardReader            | [Find out more](../../osint-tools/boardreader.md)            |
 | 4plebs                 | [Find out more](../../osint-tools/4plebs.md)                 |
 | Buzzglobe              | [Find out more](../../osint-tools/buzzglobe.md)              |
+| Socialprofiler         | [Find out more](../../osint-tools/socialprofiler.md)         |
+| TTAnon                 | [Find out more](../../osint-tools/ttanon.md)                 |
 

@@ -9,3 +9,4 @@
 | TweeterID                | [Find out more](../../osint-tools/tweeterid.md)                |
 | Twitter Trending Archive | [Find out more](../../osint-tools/twitter-trending-archive.md) |
 | Twitee                   | [Find out more](../../osint-tools/twitee.md)                   |
+| twtData X Trends Archive | [Find out more](../../osint-tools/twtdata-x-trends-archive.md) |

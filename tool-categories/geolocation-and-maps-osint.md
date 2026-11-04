@@ -28,4 +28,6 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | Soar Atlas                      | [Find out more](../osint-tools/soar-atlas.md)                      |
 | Nations Online                  | [Find out more](../osint-tools/nations-online.md)                  |
 | WorldEye                        | [Find out more](../osint-tools/worldeye.md)                        |
+| Windy                           | [Find out more](../osint-tools/windy.md)                           |
+| UCDP                            | [Find out more](../osint-tools/ucdp.md)                            |
 

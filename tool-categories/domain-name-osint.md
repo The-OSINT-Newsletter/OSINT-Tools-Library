@@ -21,3 +21,6 @@ Domain Name OSINT focuses on researching websites and their domain registrations
 | Postcard TUI           | [Find out more](../osint-tools/postcard-tui.md)           |
 | cl0q                   | [Find out more](../osint-tools/cl0q.md)                   |
 | CC.LA                  | [Find out more](../osint-tools/cc.la.md)                  |
+| Karma Domains          | [Find out more](../osint-tools/karma-domains.md)          |
+| NerdyData              | [Find out more](../osint-tools/nerdydata.md)              |
+| BuiltWith              | [Find out more](../osint-tools/builtwith.md)              |
