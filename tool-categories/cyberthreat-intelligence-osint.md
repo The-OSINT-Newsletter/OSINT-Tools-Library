@@ -4,6 +4,7 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 
 | Tool                         | Link                                                            |
 | ---------------------------- | --------------------------------------------------------------- |
+| ICHI — Internet Cyber Health Index | [Find out more](../osint-tools/ichi-internet-cyber-health-index.md) |
 | Hudson Rock                  | [Find out more](../osint-tools/hudson-rock.md)                  |
 | Meawfy                       | [Find out more](../osint-tools/meawfy.md)                       |
 | File Phish                   | [Find out more](../osint-tools/file-phish.md)                   |
