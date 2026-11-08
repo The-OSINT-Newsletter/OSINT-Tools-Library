@@ -4,6 +4,7 @@ People OSINT focuses on finding and learning about individuals using publicly av
 
 | Tool                        | Link                                                           |
 | --------------------------- | -------------------------------------------------------------- |
+| DeepSearch                  | [Find out more](../osint-tools/deepsearch.md)                  |
 | 192.com                     | [Find out more](../osint-tools/192.com.md)                     |
 | OSINT Industries            | [Find out more](../osint-tools/osint-industries.md)            |
 | Forebears                   | [Find out more](../osint-tools/forebears.md)                   |
