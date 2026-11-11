@@ -7,4 +7,5 @@
 | Inflact Instagram Profile Viewer | [Find out more](../../osint-tools/inflact-instagram-profile-viewer.md) |
 | Dumpor                           | [Find out more](../../osint-tools/dumpor.md)                           |
 | ExportGram                       | [Find out more](../../osint-tools/exportgram.md)                       |
+| IGDataHub                        | [Find out more](../../osint-tools/igdatahub.md)                        |
 

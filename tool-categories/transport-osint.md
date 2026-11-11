@@ -28,3 +28,4 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | Europlates                  | [Find out more](../osint-tools/europlates.md)                  |
 | HullCipher                  | [Find out more](../osint-tools/hullcipher.md)                  |
 | Airnav                      | [Find out more](../osint-tools/airnav.md)                      |
+| Equasis                     | [Find out more](../osint-tools/equasis.md)                     |

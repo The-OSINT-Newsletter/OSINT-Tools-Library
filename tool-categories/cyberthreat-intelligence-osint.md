@@ -26,4 +26,6 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | ANY.RUN                      | [Find out more](../osint-tools/any.run.md)                      |
 | blocklist.de                 | [Find out more](../osint-tools/blocklist.de.md)                 |
 | Blacklight                   | [Find out more](../osint-tools/blacklight.md)                   |
-|                              |                                                                 |
+| Karma Domains                | [Find out more](../osint-tools/karma-domains.md)                |
+| Internet Cyber Health Index  | [Find out more](../osint-tools/internet-cyber-health-index.md)  |
+| Cyberthreat Live Map         | [Find out more](../osint-tools/cyberthreat-live-map.md)         |

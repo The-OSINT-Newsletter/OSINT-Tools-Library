@@ -1,5 +1,8 @@
 ---
-description: 'Tool Description:'
+description: >-
+  Tool Description: A maritime OSINT platform that detects when sanctioned
+  vessels change their name, MMSI, or flag, or broadcast an identity that does
+  not match listed records.
 ---
 
 # HullCipher

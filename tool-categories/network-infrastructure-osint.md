@@ -32,3 +32,4 @@ Network & Infrastructure OSINT focuses on discovering, indexing, and analyzing i
 | CC.LA            | [Find out more](../osint-tools/cc.la.md)             |
 | EnvTrace         | [Find out more](../osint-tools/envtrace.md)          |
 | Blacklight       | [Find out more](../osint-tools/blacklight.md)        |
+| NerdyData        | [Find out more](../osint-tools/nerdydata.md)         |
