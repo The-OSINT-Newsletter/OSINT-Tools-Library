@@ -27,6 +27,7 @@ People OSINT focuses on finding and learning about individuals using publicly av
 | Names Directory             | [Find out more](../osint-tools/names-directory.md)             |
 | Revealer.US Username Lookup | [Find out more](../osint-tools/revealer.us-username-lookup.md) |
 | Nuwber                      | [Find out more](../osint-tools/nuwber.md)                      |
+| Expose                      | [Find out more](../osint-tools/expose.md)                      |
 | Radaris                     | [Find out more](/broken/pages/PaSati4lUfNqzWl0UTXs)            |
 | Buzzglobe                   | [Find out more](../osint-tools/buzzglobe.md)                   |
 | Recordwell                  | [Find out more](../osint-tools/recordwell.md)                  |

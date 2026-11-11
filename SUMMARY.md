@@ -36,6 +36,7 @@
   * [Public Media OSINT](tool-categories/public-media-osint.md)
 * [OSINT Tools](osint-tools/README.md)
   * [Tool Template](osint-tools/tool-template.md)
+  * [Expose](osint-tools/expose.md)
   * [Socialprofiler](osint-tools/socialprofiler.md)
   * [AI Compare Ninja Image Origin Check](osint-tools/ai-compare-ninja-image-origin-check.md)
   * [GeoInfer](osint-tools/geoinfer.md)
