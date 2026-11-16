@@ -29,3 +29,4 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | HullCipher                  | [Find out more](../osint-tools/hullcipher.md)                  |
 | Airnav                      | [Find out more](../osint-tools/airnav.md)                      |
 | Equasis                     | [Find out more](../osint-tools/equasis.md)                     |
+| VesselFinder                | [Find out more](../osint-tools/vesselfinder.md)                |

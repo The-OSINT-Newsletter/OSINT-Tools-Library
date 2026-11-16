@@ -30,4 +30,6 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | WorldEye                        | [Find out more](../osint-tools/worldeye.md)                        |
 | Windy                           | [Find out more](../osint-tools/windy.md)                           |
 | UCDP                            | [Find out more](../osint-tools/ucdp.md)                            |
+| Geohack                         | [Find out more](../osint-tools/geohack.md)                         |
+| Geoseer                         | [Find out more](../osint-tools/geoseer.md)                         |
 

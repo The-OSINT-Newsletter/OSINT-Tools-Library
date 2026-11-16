@@ -17,4 +17,6 @@
 | Buzzglobe              | [Find out more](../../osint-tools/buzzglobe.md)              |
 | Socialprofiler         | [Find out more](../../osint-tools/socialprofiler.md)         |
 | TTAnon                 | [Find out more](../../osint-tools/ttanon.md)                 |
+| LurkAPI                | [Find out more](../../osint-tools/lurkapi.md)                |
+| MyRecon                | [Find out more](../../osint-tools/myrecon.md)                |
 

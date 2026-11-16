@@ -36,6 +36,8 @@ Eyedex searches a large index of publicly accessible files and directories that 
 
 **3. Pivot and analyse findings.**
 
+**You can** [**view our full tool guide here.**](https://osintnewsletter.com/p/112)
+
 ### Cost
 
 * [x] Free

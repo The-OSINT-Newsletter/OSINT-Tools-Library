@@ -33,11 +33,13 @@ Telegago enables keyword-based searching across public Telegram content using Go
 
 <figure><img src="../.gitbook/assets/unknown (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**2. Just like Google/other search engine providers, you can then enter relevant keywords, usernames, or phrases into the search bar. Use quotation marks for exact phrase matching if needed.**<br>
+**2. Just like Google/other search engine providers, you can then enter relevant keywords, usernames, or phrases into the search bar. Use quotation marks for exact phrase matching if needed.**
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **3. Review the returned results, which link directly to Telegram web pages for public channels or posts.**
 
-
+You can [view our full tool guide here.](https://osintnewsletter.com/p/123)
 
 ### Cost:
 
@@ -86,8 +88,6 @@ However, it’s limited to content that is both publicly accessible and indexed 
 
 Telegago is a publicly available custom search engine built on Google Custom Search. It is not officially affiliated with Telegram.
 
-
-
 ### Ethical Considerations:
 
 * Although Telegago only surfaces publicly accessible Telegram content, users should be mindful that ‘public’ doesn’t necessarily mean intended for wider redistribution.
@@ -97,15 +97,11 @@ Telegago is a publicly available custom search engine built on Google Custom Sea
 * Take care when reporting on or documenting content from private individuals, especially in conflict, protest, or crisis contexts where exposure could cause harm.
 * Searching Telegram can expose users to graphic, extremist, or disturbing material. Appropriate safeguarding and support practices should be considered.
 
-
-
 ### Related Tools:
 
 * Lyzem
 * TGStat
-* Telegram-OSINT
-
-<br>
+* Telegram-OSINT<br>
 
 #### Sources:
 
@@ -118,8 +114,3 @@ Telegago is a publicly available custom search engine built on Google Custom Sea
 [https://alternativeto.net/software/telegago/about/](https://alternativeto.net/software/telegago/about/)&#x20;
 
 [https://www.authentic8.com/blog/OSINT-tools-law-enforcement](https://www.authentic8.com/blog/OSINT-tools-law-enforcement)&#x20;
-
-<br>
-
-<br>
-

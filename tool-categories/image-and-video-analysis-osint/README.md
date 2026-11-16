@@ -35,4 +35,7 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | ZIPZAX Image Metadata Viewer        | [Find out more](../../osint-tools/zipzax-image-metadata-viewer.md)        |
 | AI Compare Ninja Image Origin Check | [Find out more](../../osint-tools/ai-compare-ninja-image-origin-check.md) |
 | GeoInfer                            | [Find out more](../../osint-tools/geoinfer.md)                            |
+| Archivarix Retrace                  | [Find out more](../../osint-tools/archivarix-retrace.md)                  |
+| TryFaceSeach                        | [Find out more](../../osint-tools/tryfacesearch.md)                       |
+| Geoseer                             | [Find out more](../../osint-tools/geoseer.md)                             |
 

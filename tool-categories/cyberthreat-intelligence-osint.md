@@ -29,3 +29,6 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | Karma Domains                | [Find out more](../osint-tools/karma-domains.md)                |
 | Internet Cyber Health Index  | [Find out more](../osint-tools/internet-cyber-health-index.md)  |
 | Cyberthreat Live Map         | [Find out more](../osint-tools/cyberthreat-live-map.md)         |
+| Whattoblock                  | [Find out more](../osint-tools/whattoblock.md)                  |
+| LOLBAS                       | [Find out more](../osint-tools/lolbas.md)                       |
+| Malware Bazaar               | [Find out more](../osint-tools/malware-bazaar.md)               |

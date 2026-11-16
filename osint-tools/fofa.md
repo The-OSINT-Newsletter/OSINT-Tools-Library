@@ -32,6 +32,8 @@ FOFA lets you see what devices and services are publicly reachable on the intern
 2. **Filter results (by port, country, service type).**
 3. **Explore and pivot to related hosts or services.**
 
+**You can** [**view our full tool guide here.**](https://osintnewsletter.com/p/126)
+
 ### Cost
 
 * [ ] Free

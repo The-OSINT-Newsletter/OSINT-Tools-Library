@@ -37,6 +37,8 @@ Waybien is an emerging, powerful OSINT search engine for messaging and social me
 
 Tip: Use specific keywords to avoid overly broad results, and cross-reference results for accuracy.
 
+**You can** [**view our full tool guide here.**](https://osintnewsletter.com/p/121)
+
 ### Cost
 
 * [ ] Free

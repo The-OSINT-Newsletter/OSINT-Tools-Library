@@ -67,6 +67,8 @@ Use verbose mode to see source attribution: \`leaker email user@example.com -v\`
 
 leaker -L &#x20;
 
+**You can** [**view our full tool guide here.**](https://osintnewsletter.com/p/115)
+
 ### Cost
 
 * [ ] Free
