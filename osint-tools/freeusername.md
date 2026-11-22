@@ -9,6 +9,7 @@ description: >-
 | **FreeUsername** | **Quick Overview** |
 | ---------------- | ------------------ |
 | URL | [https://freeusername.com/](https://freeusername.com/) |
+| Android app | [Google Play](https://play.google.com/store/apps/details?id=whatsmyname.app.us) |
 | What it does | Checks whether a username exists across 3,457 sites and returns direct links to each profile found, with a separate status for sites that blocked or failed the check. |
 | How to use it | Enter a username and choose a Quick scan (around 1,000 sites) or a Full scan (all 3,457). Results stream in as each site answers. Open each hit to verify it manually. |
 | Cost | Free. |
