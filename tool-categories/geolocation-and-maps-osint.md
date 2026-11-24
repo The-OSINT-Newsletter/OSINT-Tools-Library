@@ -31,5 +31,6 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | Windy                           | [Find out more](../osint-tools/windy.md)                           |
 | UCDP                            | [Find out more](../osint-tools/ucdp.md)                            |
 | Geohack                         | [Find out more](../osint-tools/geohack.md)                         |
+| H1DR4                           | [Find out more](../osint-tools/h1dr4.md)                           |
 | Geoseer                         | [Find out more](../osint-tools/geoseer.md)                         |
 

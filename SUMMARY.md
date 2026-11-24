@@ -58,6 +58,7 @@
   * [Whattoblock](osint-tools/whattoblock.md)
   * [Geohack](osint-tools/geohack.md)
   * [Geoseer](osint-tools/geoseer.md)
+  * [H1DR4](osint-tools/h1dr4.md)
   * [Socialprofiler](osint-tools/socialprofiler.md)
   * [AI Compare Ninja Image Origin Check](osint-tools/ai-compare-ninja-image-origin-check.md)
   * [GeoInfer](osint-tools/geoinfer.md)
