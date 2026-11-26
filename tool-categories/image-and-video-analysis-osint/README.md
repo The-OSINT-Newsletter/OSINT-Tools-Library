@@ -10,6 +10,7 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | Face Comparison by Toolpie          | [Find out more](../../osint-tools/face-comparison-by-toolpie.md)          |
 | Forensically                        | [Find out more](../../osint-tools/forensically.md)                        |
 | Google Lens                         | [Find out more](../../osint-tools/google-lens.md)                         |
+| FastScribe | [Find out more](../../osint-tools/fastscribe.md) |
 | Filmot                              | [Find out more](../../osint-tools/filmot.md)                              |
 | Profile Image Intel                 | [Find out more](../../osint-tools/profile-image-intel.md)                 |
 | Crowd Counter                       | [Find out more](../../osint-tools/crowd-counter.md)                       |
