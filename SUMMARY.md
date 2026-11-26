@@ -415,5 +415,6 @@
   * [Censys](osint-tools/censys.md)
   * [Shodan](osint-tools/shodan.md)
   * [Dune](osint-tools/dune.md)
+  * [FastScribe](osint-tools/fastscribe.md)
   * [Filmot](osint-tools/filmot.md)
 * [Submission Guide](submission-guide.md)
